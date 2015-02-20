@@ -1,0 +1,9 @@
+D:\Lessons\C#\Operator Expression and Statements\oddOrEven\bin\Debug\oddOrEven.exe.config
+D:\Lessons\C#\Operator Expression and Statements\oddOrEven\bin\Debug\oddOrEven.exe
+D:\Lessons\C#\Operator Expression and Statements\oddOrEven\bin\Debug\oddOrEven.pdb
+D:\Lessons\C#\Operator Expression and Statements\oddOrEven\obj\Debug\1.oddOrEven.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Operator Expression and Statements\oddOrEven\obj\Debug\oddOrEven.exe
+D:\Lessons\C#\Operator Expression and Statements\oddOrEven\obj\Debug\oddOrEven.pdb
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\oddOrEven\bin\Debug\oddOrEven.exe.config
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\oddOrEven\obj\Debug\oddOrEven.exe
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\oddOrEven\obj\Debug\oddOrEven.pdb

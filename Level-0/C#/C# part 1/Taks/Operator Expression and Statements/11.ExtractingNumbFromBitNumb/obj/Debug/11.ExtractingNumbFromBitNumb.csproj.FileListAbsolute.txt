@@ -1,0 +1,8 @@
+D:\Lessons\C#\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\bin\Debug\11.ExtractingNumbFromBitNumb.exe.config
+D:\Lessons\C#\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\bin\Debug\11.ExtractingNumbFromBitNumb.exe
+D:\Lessons\C#\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\bin\Debug\11.ExtractingNumbFromBitNumb.pdb
+D:\Lessons\C#\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\obj\Debug\11.ExtractingNumbFromBitNumb.exe
+D:\Lessons\C#\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\obj\Debug\11.ExtractingNumbFromBitNumb.pdb
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\bin\Debug\11.ExtractingNumbFromBitNumb.exe.config
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\obj\Debug\11.ExtractingNumbFromBitNumb.exe
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\11.ExtractingNumbFromBitNumb\obj\Debug\11.ExtractingNumbFromBitNumb.pdb

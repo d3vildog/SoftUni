@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.09FibonaciSequence\bin\Debug\03.09FibonaciSequence.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.09FibonaciSequence\bin\Debug\03.09FibonaciSequence.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.09FibonaciSequence\bin\Debug\03.09FibonaciSequence.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.09FibonaciSequence\obj\Debug\03.09FibonaciSequence.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.09FibonaciSequence\obj\Debug\03.09FibonaciSequence.pdb

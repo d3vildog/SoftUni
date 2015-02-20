@@ -1,0 +1,6 @@
+D:\Lessons\C#\Console Input Output\Summing3Ints\bin\Debug\Summing3Ints.exe.config
+D:\Lessons\C#\Console Input Output\Summing3Ints\bin\Debug\Summing3Ints.exe
+D:\Lessons\C#\Console Input Output\Summing3Ints\bin\Debug\Summing3Ints.pdb
+D:\Lessons\C#\Console Input Output\Summing3Ints\obj\Debug\1.1Summing3Ints.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Console Input Output\Summing3Ints\obj\Debug\Summing3Ints.exe
+D:\Lessons\C#\Console Input Output\Summing3Ints\obj\Debug\Summing3Ints.pdb

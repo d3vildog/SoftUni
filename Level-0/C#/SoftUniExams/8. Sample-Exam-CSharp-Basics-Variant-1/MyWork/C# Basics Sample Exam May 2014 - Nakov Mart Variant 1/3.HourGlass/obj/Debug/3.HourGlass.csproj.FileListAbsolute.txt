@@ -1,0 +1,5 @@
+D:\Lessons\SoftUniExams\shitt try\Solution1\3.HourGlass\bin\Debug\3.HourGlass.exe
+D:\Lessons\SoftUniExams\shitt try\Solution1\3.HourGlass\bin\Debug\3.HourGlass.pdb
+D:\Lessons\SoftUniExams\shitt try\Solution1\3.HourGlass\obj\Debug\3.HourGlass.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUniExams\shitt try\Solution1\3.HourGlass\obj\Debug\3.HourGlass.exe
+D:\Lessons\SoftUniExams\shitt try\Solution1\3.HourGlass\obj\Debug\3.HourGlass.pdb

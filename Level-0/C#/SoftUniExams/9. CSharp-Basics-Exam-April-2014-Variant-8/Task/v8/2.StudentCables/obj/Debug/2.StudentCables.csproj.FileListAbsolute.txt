@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\2.StudentCables\bin\Debug\2.StudentCables.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\2.StudentCables\bin\Debug\2.StudentCables.pdb
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\2.StudentCables\obj\Debug\2.StudentCables.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\2.StudentCables\obj\Debug\2.StudentCables.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\C#\ConditionalConstructions\1.4DigitSwitchStatement\bin\Debug\1.4DigitSwitchStatement.exe.config
+D:\Lessons\C#\ConditionalConstructions\1.4DigitSwitchStatement\bin\Debug\1.4DigitSwitchStatement.exe
+D:\Lessons\C#\ConditionalConstructions\1.4DigitSwitchStatement\bin\Debug\1.4DigitSwitchStatement.pdb
+D:\Lessons\C#\ConditionalConstructions\1.4DigitSwitchStatement\obj\Debug\1.4DigitSwitchStatement.exe
+D:\Lessons\C#\ConditionalConstructions\1.4DigitSwitchStatement\obj\Debug\1.4DigitSwitchStatement.pdb

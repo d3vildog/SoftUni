@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\06.Volleyball\bin\Debug\06.Volleyball.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\06.Volleyball\bin\Debug\06.Volleyball.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\06.Volleyball\obj\Debug\06.Volleyball.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\06.Volleyball\obj\Debug\06.Volleyball.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.09\bin\Debug\05.09.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.09\bin\Debug\05.09.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.09\bin\Debug\05.09.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.09\obj\Debug\05.09CatalanNumbers.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.09\obj\Debug\05.09.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.09\obj\Debug\05.09.pdb

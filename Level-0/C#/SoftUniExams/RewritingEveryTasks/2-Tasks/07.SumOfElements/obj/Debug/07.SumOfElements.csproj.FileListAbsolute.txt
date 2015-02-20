@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\07.SumOfElements\bin\Debug\07.SumOfElements.exe.config
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\07.SumOfElements\bin\Debug\07.SumOfElements.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\07.SumOfElements\bin\Debug\07.SumOfElements.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\07.SumOfElements\obj\Debug\07.SumOfElements.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\07.SumOfElements\obj\Debug\07.SumOfElements.pdb

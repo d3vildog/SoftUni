@@ -1,0 +1,9 @@
+D:\Lessons\C#\ConditionalConstructions\1.8CheckingIsThereSumOf0\bin\Debug\1.8CheckingIsThereSumOf0.exe.config
+D:\Lessons\C#\ConditionalConstructions\1.8CheckingIsThereSumOf0\bin\Debug\1.8CheckingIsThereSumOf0.exe
+D:\Lessons\C#\ConditionalConstructions\1.8CheckingIsThereSumOf0\bin\Debug\1.8CheckingIsThereSumOf0.pdb
+D:\Lessons\C#\ConditionalConstructions\1.8CheckingIsThereSumOf0\obj\Debug\1.8CheckingIsThereSumOf0.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\ConditionalConstructions\1.8CheckingIsThereSumOf0\obj\Debug\1.8CheckingIsThereSumOf0.exe
+D:\Lessons\C#\ConditionalConstructions\1.8CheckingIsThereSumOf0\obj\Debug\1.8CheckingIsThereSumOf0.pdb
+D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\1.8CheckingIsThereSumOf0\bin\Debug\1.8CheckingIsThereSumOf0.exe.config
+D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\1.8CheckingIsThereSumOf0\obj\Debug\1.8CheckingIsThereSumOf0.exe
+D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\1.8CheckingIsThereSumOf0\obj\Debug\1.8CheckingIsThereSumOf0.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\C#\Loops\1.9CatalanFormula\bin\Debug\1.9CatalanFormula.exe.config
+D:\Lessons\C#\Loops\1.9CatalanFormula\bin\Debug\1.9CatalanFormula.exe
+D:\Lessons\C#\Loops\1.9CatalanFormula\bin\Debug\1.9CatalanFormula.pdb
+D:\Lessons\C#\Loops\1.9CatalanFormula\obj\Debug\1.9CatalanFormula.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Loops\1.9CatalanFormula\obj\Debug\1.9CatalanFormula.exe
+D:\Lessons\C#\Loops\1.9CatalanFormula\obj\Debug\1.9CatalanFormula.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\C#\Carpets Matrix\Carpets Matrix\bin\Debug\Carpets Matrix.exe.config
+D:\Lessons\C#\Carpets Matrix\Carpets Matrix\bin\Debug\Carpets Matrix.exe
+D:\Lessons\C#\Carpets Matrix\Carpets Matrix\bin\Debug\Carpets Matrix.pdb
+D:\Lessons\C#\Carpets Matrix\Carpets Matrix\obj\Debug\Carpets Matrix.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Carpets Matrix\Carpets Matrix\obj\Debug\Carpets Matrix.exe
+D:\Lessons\C#\Carpets Matrix\Carpets Matrix\obj\Debug\Carpets Matrix.pdb

@@ -1,0 +1,3 @@
+D:\Lessons\C#\DeclaringVariables\ConcatinatingHelloWord\bin\Debug\ConcatinatingHelloWord.exe.config
+D:\Lessons\C#\DeclaringVariables\ConcatinatingHelloWord\obj\Debug\ConcatinatingHelloWord.exe
+D:\Lessons\C#\DeclaringVariables\ConcatinatingHelloWord\obj\Debug\ConcatinatingHelloWord.pdb

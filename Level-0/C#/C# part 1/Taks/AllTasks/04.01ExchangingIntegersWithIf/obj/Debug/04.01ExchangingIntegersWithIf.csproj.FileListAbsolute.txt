@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.01ExchangingIntegersWithIf\bin\Debug\04.01ExchangingIntegersWithIf.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.01ExchangingIntegersWithIf\bin\Debug\04.01ExchangingIntegersWithIf.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.01ExchangingIntegersWithIf\bin\Debug\04.01ExchangingIntegersWithIf.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.01ExchangingIntegersWithIf\obj\Debug\04.01ExchangingIntegersWithIf.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.01ExchangingIntegersWithIf\obj\Debug\04.01ExchangingIntegersWithIf.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.01ExchangingIntegersWithIf\obj\Debug\04.01ExchangingIntegersWithIf.pdb

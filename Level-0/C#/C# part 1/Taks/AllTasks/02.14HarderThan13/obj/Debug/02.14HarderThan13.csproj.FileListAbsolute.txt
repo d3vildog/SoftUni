@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.14HarderThan13\bin\Debug\02.14HarderThan13.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.14HarderThan13\bin\Debug\02.14HarderThan13.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.14HarderThan13\bin\Debug\02.14HarderThan13.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.14HarderThan13\obj\Debug\02.14HarderThan13.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.14HarderThan13\obj\Debug\02.14HarderThan13.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.14HarderThan13\obj\Debug\02.14HarderThan13.pdb

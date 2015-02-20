@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.06QuadraticEquation\bin\Debug\03.06QuadraticEquation.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.06QuadraticEquation\bin\Debug\03.06QuadraticEquation.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.06QuadraticEquation\bin\Debug\03.06QuadraticEquation.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.06QuadraticEquation\obj\Debug\03.06QuadraticEquation.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.06QuadraticEquation\obj\Debug\03.06QuadraticEquation.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.06QuadraticEquation\obj\Debug\03.06QuadraticEquation.csprojResolveAssemblyReference.cache

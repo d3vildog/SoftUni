@@ -1,0 +1,5 @@
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\4.Nine-DigitMagicNumbers\obj\Debug\4.Nine-DigitMagicNumbers.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\4.Nine-DigitMagicNumbers\bin\Debug\4.Nine-DigitMagicNumbers.exe
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\4.Nine-DigitMagicNumbers\bin\Debug\4.Nine-DigitMagicNumbers.pdb
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\4.Nine-DigitMagicNumbers\obj\Debug\4.Nine-DigitMagicNumbers.exe
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\4.Nine-DigitMagicNumbers\obj\Debug\4.Nine-DigitMagicNumbers.pdb

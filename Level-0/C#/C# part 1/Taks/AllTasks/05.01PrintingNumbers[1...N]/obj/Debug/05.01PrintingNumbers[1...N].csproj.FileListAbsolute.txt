@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.01PrintingNumbers[1...N]\bin\Debug\_05._01PrintingNumbers_1._._.N_.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.01PrintingNumbers[1...N]\bin\Debug\_05._01PrintingNumbers_1._._.N_.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.01PrintingNumbers[1...N]\bin\Debug\_05._01PrintingNumbers_1._._.N_.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.01PrintingNumbers[1...N]\obj\Debug\_05._01PrintingNumbers_1._._.N_.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.01PrintingNumbers[1...N]\obj\Debug\_05._01PrintingNumbers_1._._.N_.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\C#\DeclaringVariables\Exchanging values\bin\Debug\Exchanging values.exe.config
+D:\Lessons\C#\DeclaringVariables\Exchanging values\bin\Debug\Exchanging values.exe
+D:\Lessons\C#\DeclaringVariables\Exchanging values\bin\Debug\Exchanging values.pdb
+D:\Lessons\C#\DeclaringVariables\Exchanging values\obj\Debug\Exchanging values.exe
+D:\Lessons\C#\DeclaringVariables\Exchanging values\obj\Debug\Exchanging values.pdb

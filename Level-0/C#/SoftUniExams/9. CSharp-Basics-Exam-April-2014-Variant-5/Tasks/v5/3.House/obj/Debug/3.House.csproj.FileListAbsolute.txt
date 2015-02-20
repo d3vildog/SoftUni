@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\3.House\bin\Debug\3.House.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\3.House\bin\Debug\3.House.pdb
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\3.House\obj\Debug\3.House.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\3.House\obj\Debug\3.House.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\3.House\obj\Debug\3.House.pdb

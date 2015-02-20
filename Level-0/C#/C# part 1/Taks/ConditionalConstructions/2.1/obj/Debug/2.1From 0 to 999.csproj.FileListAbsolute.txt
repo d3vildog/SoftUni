@@ -1,0 +1,3 @@
+D:\Lessons\C#\ConditionalConstructions\2.1\bin\Debug\2.1.exe.config
+D:\Lessons\C#\ConditionalConstructions\2.1\obj\Debug\2.1.exe
+D:\Lessons\C#\ConditionalConstructions\2.1\obj\Debug\2.1.pdb

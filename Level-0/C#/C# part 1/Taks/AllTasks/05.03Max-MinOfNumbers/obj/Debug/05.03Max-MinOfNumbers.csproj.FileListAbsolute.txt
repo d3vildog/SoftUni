@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.03Max-MinOfNumbers\bin\Debug\05.03Max-MinOfNumbers.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.03Max-MinOfNumbers\bin\Debug\05.03Max-MinOfNumbers.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.03Max-MinOfNumbers\bin\Debug\05.03Max-MinOfNumbers.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.03Max-MinOfNumbers\obj\Debug\05.03Max-MinOfNumbers.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.03Max-MinOfNumbers\obj\Debug\05.03Max-MinOfNumbers.pdb

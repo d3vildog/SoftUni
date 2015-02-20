@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.07MaxOf5\bin\Debug\04.07MaxOf5.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.07MaxOf5\bin\Debug\04.07MaxOf5.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.07MaxOf5\bin\Debug\04.07MaxOf5.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.07MaxOf5\obj\Debug\04.07MaxOf5.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.07MaxOf5\obj\Debug\04.07MaxOf5.pdb

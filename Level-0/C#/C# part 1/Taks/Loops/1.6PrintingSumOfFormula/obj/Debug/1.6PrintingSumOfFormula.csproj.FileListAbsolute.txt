@@ -1,0 +1,6 @@
+D:\Lessons\C#\Loops\1.6PrintingSumOfFormula\bin\Debug\1.6PrintingSumOfFormula.exe.config
+D:\Lessons\C#\Loops\1.6PrintingSumOfFormula\bin\Debug\1.6PrintingSumOfFormula.exe
+D:\Lessons\C#\Loops\1.6PrintingSumOfFormula\bin\Debug\1.6PrintingSumOfFormula.pdb
+D:\Lessons\C#\Loops\1.6PrintingSumOfFormula\obj\Debug\1.6PrintingSumOfFormula.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Loops\1.6PrintingSumOfFormula\obj\Debug\1.6PrintingSumOfFormula.exe
+D:\Lessons\C#\Loops\1.6PrintingSumOfFormula\obj\Debug\1.6PrintingSumOfFormula.pdb

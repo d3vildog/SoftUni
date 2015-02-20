@@ -1,0 +1,1 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\4.LongestAlphabeticalWord\bin\Debug\4.LongestAlphabeticalWord.exe.config

@@ -1,0 +1,10 @@
+D:\Lessons\C#\AllTasks\02.03RectangleArea\bin\Debug\02.03RectangleArea.exe.config
+D:\Lessons\C#\AllTasks\02.03RectangleArea\bin\Debug\02.03RectangleArea.exe
+D:\Lessons\C#\AllTasks\02.03RectangleArea\bin\Debug\02.03RectangleArea.pdb
+D:\Lessons\C#\AllTasks\02.03RectangleArea\obj\Debug\02.03RectangleArea.exe
+D:\Lessons\C#\AllTasks\02.03RectangleArea\obj\Debug\02.03RectangleArea.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03RectangleArea\bin\Debug\02.03RectangleArea.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03RectangleArea\bin\Debug\02.03RectangleArea.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03RectangleArea\bin\Debug\02.03RectangleArea.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03RectangleArea\obj\Debug\02.03RectangleArea.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03RectangleArea\obj\Debug\02.03RectangleArea.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\C#\Loops\14.HardCore\bin\Debug\14.HardCore.exe.config
+D:\Lessons\C#\Loops\14.HardCore\bin\Debug\14.HardCore.exe
+D:\Lessons\C#\Loops\14.HardCore\bin\Debug\14.HardCore.pdb
+D:\Lessons\C#\Loops\14.HardCore\obj\Debug\14.HardCore.exe
+D:\Lessons\C#\Loops\14.HardCore\obj\Debug\14.HardCore.pdb

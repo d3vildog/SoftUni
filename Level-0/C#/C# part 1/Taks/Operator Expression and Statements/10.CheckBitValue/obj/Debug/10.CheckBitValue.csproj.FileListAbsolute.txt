@@ -1,0 +1,12 @@
+D:\Lessons\C#\Operator Expression and Statements\10.CheckBitValue\bin\Debug\10.CheckBitValue.exe.config
+D:\Lessons\C#\Operator Expression and Statements\10.CheckBitValue\bin\Debug\10.CheckBitValue.exe
+D:\Lessons\C#\Operator Expression and Statements\10.CheckBitValue\bin\Debug\10.CheckBitValue.pdb
+D:\Lessons\C#\Operator Expression and Statements\10.CheckBitValue\obj\Debug\10.CheckBitValue.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Operator Expression and Statements\10.CheckBitValue\obj\Debug\10.CheckBitValue.exe
+D:\Lessons\C#\Operator Expression and Statements\10.CheckBitValue\obj\Debug\10.CheckBitValue.pdb
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\10.CheckBitValue\bin\Debug\10.CheckBitValue.exe.config
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\10.CheckBitValue\obj\Debug\10.CheckBitValue.exe
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\10.CheckBitValue\obj\Debug\10.CheckBitValue.pdb
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\10.CheckBitValue\bin\Debug\10.CheckBitValue.exe
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\10.CheckBitValue\bin\Debug\10.CheckBitValue.pdb
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\10.CheckBitValue\obj\Debug\10.CheckBitValue.csprojResolveAssemblyReference.cache

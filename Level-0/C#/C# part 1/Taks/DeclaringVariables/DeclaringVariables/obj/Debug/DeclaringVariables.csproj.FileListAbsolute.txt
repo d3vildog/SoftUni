@@ -1,0 +1,1 @@
+D:\Lessons\C#\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config

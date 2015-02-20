@@ -1,0 +1,9 @@
+D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\bin\Debug\ChecksFirst100PrimeNumbers.exe.config
+D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\bin\Debug\ChecksFirst100PrimeNumbers.exe
+D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\bin\Debug\ChecksFirst100PrimeNumbers.pdb
+D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\obj\Debug\7.ecksFirst100PrimeNumbers.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\obj\Debug\ChecksFirst100PrimeNumbers.exe
+D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\obj\Debug\ChecksFirst100PrimeNumbers.pdb
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\ChecksFirst100PrimeNumbers\bin\Debug\ChecksFirst100PrimeNumbers.exe.config
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\ChecksFirst100PrimeNumbers\obj\Debug\ChecksFirst100PrimeNumbers.exe
+D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\ChecksFirst100PrimeNumbers\obj\Debug\ChecksFirst100PrimeNumbers.pdb

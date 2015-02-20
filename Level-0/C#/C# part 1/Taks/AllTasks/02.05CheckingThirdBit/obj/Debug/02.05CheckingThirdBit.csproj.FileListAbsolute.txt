@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.05CheckingThirdBit\bin\Debug\02.05CheckingThirdBit.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.05CheckingThirdBit\bin\Debug\02.05CheckingThirdBit.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.05CheckingThirdBit\bin\Debug\02.05CheckingThirdBit.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.05CheckingThirdBit\obj\Debug\02.05CheckingThirdBit.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.05CheckingThirdBit\obj\Debug\02.05CheckingThirdBit.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.05CheckingThirdBit\obj\Debug\02.05CheckingThirdBit.pdb

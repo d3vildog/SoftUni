@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.08TrapezoidArea\bin\Debug\02.08TrapezoidArea.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.08TrapezoidArea\bin\Debug\02.08TrapezoidArea.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.08TrapezoidArea\bin\Debug\02.08TrapezoidArea.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.08TrapezoidArea\obj\Debug\02.08TrapezoidArea.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.08TrapezoidArea\obj\Debug\02.08TrapezoidArea.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.08TrapezoidArea\obj\Debug\02.08TrapezoidArea.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\2.HalfSum\bin\Debug\2.HalfSum.exe
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\2.HalfSum\bin\Debug\2.HalfSum.pdb
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\2.HalfSum\obj\Debug\2.HalfSum.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\2.HalfSum\obj\Debug\2.HalfSum.exe
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\2.HalfSum\obj\Debug\2.HalfSum.pdb

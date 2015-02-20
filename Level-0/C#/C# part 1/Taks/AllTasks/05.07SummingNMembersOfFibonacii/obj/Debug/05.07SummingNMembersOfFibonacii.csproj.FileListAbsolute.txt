@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.07SummingNMembersOfFibonacii\bin\Debug\05.07SummingNMembersOfFibonacii.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.07SummingNMembersOfFibonacii\bin\Debug\05.07SummingNMembersOfFibonacii.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.07SummingNMembersOfFibonacii\bin\Debug\05.07SummingNMembersOfFibonacii.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.07SummingNMembersOfFibonacii\obj\Debug\05.07SummingNMembersOfFibonacii.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.07SummingNMembersOfFibonacii\obj\Debug\05.07SummingNMembersOfFibonacii.pdb

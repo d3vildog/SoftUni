@@ -1,0 +1,6 @@
+D:\Lessons\C#\AllTasks\01.14BankShits\bin\Debug\01.14BankShits.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.14BankShits\bin\Debug\01.14BankShits.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.14BankShits\bin\Debug\01.14BankShits.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.14BankShits\bin\Debug\01.14BankShits.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.14BankShits\obj\Debug\01.14BankShits.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.14BankShits\obj\Debug\01.14BankShits.pdb

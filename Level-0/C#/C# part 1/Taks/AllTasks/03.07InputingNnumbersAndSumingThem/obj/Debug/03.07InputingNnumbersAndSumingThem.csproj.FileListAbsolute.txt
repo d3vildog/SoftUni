@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.07InputingNnumbersAndSumingThem\bin\Debug\03.07InputingNnumbersAndSumingThem.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.07InputingNnumbersAndSumingThem\obj\Debug\03.07InputingNnumbersAndSumingThem.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.07InputingNnumbersAndSumingThem\bin\Debug\03.07InputingNnumbersAndSumingThem.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.07InputingNnumbersAndSumingThem\bin\Debug\03.07InputingNnumbersAndSumingThem.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.07InputingNnumbersAndSumingThem\obj\Debug\03.07InputingNnumbersAndSumingThem.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.07InputingNnumbersAndSumingThem\obj\Debug\03.07InputingNnumbersAndSumingThem.pdb

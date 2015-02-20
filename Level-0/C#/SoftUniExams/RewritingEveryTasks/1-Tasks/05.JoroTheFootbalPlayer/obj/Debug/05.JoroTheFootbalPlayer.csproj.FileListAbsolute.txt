@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\05.JoroTheFootbalPlayer\bin\Debug\05.JoroTheFootbalPlayer.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\05.JoroTheFootbalPlayer\bin\Debug\05.JoroTheFootbalPlayer.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\05.JoroTheFootbalPlayer\obj\Debug\05.JoroTheFootbalPlayer.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\05.JoroTheFootbalPlayer\obj\Debug\05.JoroTheFootbalPlayer.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\05.JoroTheFootbalPlayer\obj\Debug\05.JoroTheFootbalPlayer.pdb

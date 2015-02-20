@@ -1,0 +1,6 @@
+D:\Lessons\C#\Console Input Output\1.3CompanyManeger\bin\Debug\1.3CompanyManeger.exe.config
+D:\Lessons\C#\Console Input Output\1.3CompanyManeger\bin\Debug\1.3CompanyManeger.exe
+D:\Lessons\C#\Console Input Output\1.3CompanyManeger\bin\Debug\1.3CompanyManeger.pdb
+D:\Lessons\C#\Console Input Output\1.3CompanyManeger\obj\Debug\1.3CompanyManeger.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Console Input Output\1.3CompanyManeger\obj\Debug\1.3CompanyManeger.exe
+D:\Lessons\C#\Console Input Output\1.3CompanyManeger\obj\Debug\1.3CompanyManeger.pdb

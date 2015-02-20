@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\01.Tribonacci\bin\Debug\01.Tribonacci.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\01.Tribonacci\bin\Debug\01.Tribonacci.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\01.Tribonacci\obj\Debug\01.Tribonacci.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\01.Tribonacci\obj\Debug\01.Tribonacci.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\01.Tribonacci\obj\Debug\01.Tribonacci.pdb

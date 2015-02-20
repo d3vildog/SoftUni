@@ -1,0 +1,1 @@
+D:\Lessons\C#\Console Input Output\Console Input Output\bin\Debug\Console Input Output.exe.config

@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.02DoubleOrFloat\bin\Debug\01.02DoubleOrFloat.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.02DoubleOrFloat\bin\Debug\01.02DoubleOrFloat.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.02DoubleOrFloat\bin\Debug\01.02DoubleOrFloat.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.02DoubleOrFloat\obj\Debug\01.02DoubleOrFloat.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.02DoubleOrFloat\obj\Debug\01.02DoubleOrFloat.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.02DoubleOrFloat\obj\Debug\01.02DoubleOrFloat.pdb

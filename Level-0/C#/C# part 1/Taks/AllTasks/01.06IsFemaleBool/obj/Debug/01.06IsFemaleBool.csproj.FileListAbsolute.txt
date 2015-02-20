@@ -1,0 +1,10 @@
+D:\Lessons\C#\AllTasks\01.06IsFemaleBool\bin\Debug\01.06IsFemaleBool.exe.config
+D:\Lessons\C#\AllTasks\01.06IsFemaleBool\bin\Debug\01.06IsFemaleBool.exe
+D:\Lessons\C#\AllTasks\01.06IsFemaleBool\bin\Debug\01.06IsFemaleBool.pdb
+D:\Lessons\C#\AllTasks\01.06IsFemaleBool\obj\Debug\01.06IsFemaleBool.exe
+D:\Lessons\C#\AllTasks\01.06IsFemaleBool\obj\Debug\01.06IsFemaleBool.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.06IsFemaleBool\bin\Debug\01.06IsFemaleBool.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.06IsFemaleBool\bin\Debug\01.06IsFemaleBool.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.06IsFemaleBool\bin\Debug\01.06IsFemaleBool.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.06IsFemaleBool\obj\Debug\01.06IsFemaleBool.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.06IsFemaleBool\obj\Debug\01.06IsFemaleBool.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\C#\Loops\11PrintingCards\bin\Debug\11PrintingCards.exe.config
+D:\Lessons\C#\Loops\11PrintingCards\bin\Debug\11PrintingCards.exe
+D:\Lessons\C#\Loops\11PrintingCards\bin\Debug\11PrintingCards.pdb
+D:\Lessons\C#\Loops\11PrintingCards\obj\Debug\11PrintingCards.exe
+D:\Lessons\C#\Loops\11PrintingCards\obj\Debug\11PrintingCards.pdb
+D:\Lessons\C#\Loops\11PrintingCards\obj\Debug\11PrintingCards.csprojResolveAssemblyReference.cache

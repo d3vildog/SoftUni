@@ -1,0 +1,6 @@
+D:\Lessons\C#\Console Input Output\1.6QuadraticEquation\bin\Debug\1.6QuadraticEquation.exe.config
+D:\Lessons\C#\Console Input Output\1.6QuadraticEquation\bin\Debug\1.6QuadraticEquation.exe
+D:\Lessons\C#\Console Input Output\1.6QuadraticEquation\bin\Debug\1.6QuadraticEquation.pdb
+D:\Lessons\C#\Console Input Output\1.6QuadraticEquation\obj\Debug\1.6QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Console Input Output\1.6QuadraticEquation\obj\Debug\1.6QuadraticEquation.exe
+D:\Lessons\C#\Console Input Output\1.6QuadraticEquation\obj\Debug\1.6QuadraticEquation.pdb

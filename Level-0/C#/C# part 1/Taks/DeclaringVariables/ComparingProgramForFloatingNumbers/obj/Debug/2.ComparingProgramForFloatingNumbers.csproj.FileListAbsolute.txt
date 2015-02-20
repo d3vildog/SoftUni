@@ -1,0 +1,7 @@
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\bin\Debug\ComparingProgramForFloatingNumbers.exe.config
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\bin\Debug\ComparingProgramForFloatingNumbers.exe
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\bin\Debug\ComparingProgramForFloatingNumbers.pdb
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\bin\Debug\ComparingProgramForFloatingNumbers.exe.CodeAnalysisLog.xml
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\bin\Debug\ComparingProgramForFloatingNumbers.exe.lastcodeanalysissucceeded
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\obj\Debug\ComparingProgramForFloatingNumbers.exe
+D:\Lessons\C#\DeclaringVariables\ComparingProgramForFloatingNumbers\obj\Debug\ComparingProgramForFloatingNumbers.pdb

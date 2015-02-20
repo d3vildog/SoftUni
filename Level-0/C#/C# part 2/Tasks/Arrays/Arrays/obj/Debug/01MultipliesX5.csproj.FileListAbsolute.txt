@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 2\Tasks\Arrays\Arrays\obj\Debug\01MultipliesX5.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 2\Tasks\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Lessons\C#\C# part 2\Tasks\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Lessons\C#\C# part 2\Tasks\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Lessons\C#\C# part 2\Tasks\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Lessons\C#\C# part 2\Tasks\Arrays\Arrays\obj\Debug\Arrays.pdb

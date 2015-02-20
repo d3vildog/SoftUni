@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.03CompanyInformation\bin\Debug\03.03CompanyInformation.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.03CompanyInformation\obj\Debug\03.03CompanyInformation.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.03CompanyInformation\bin\Debug\03.03CompanyInformation.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.03CompanyInformation\bin\Debug\03.03CompanyInformation.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.03CompanyInformation\obj\Debug\03.03CompanyInformation.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.03CompanyInformation\obj\Debug\03.03CompanyInformation.pdb

@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\0\bin\Debug\_0.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\0\bin\Debug\_0.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\0\obj\Debug\PeaceOfCake.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\0\obj\Debug\_0.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\0\obj\Debug\_0.pdb

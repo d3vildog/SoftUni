@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.06SomeFormula\bin\Debug\05.06SomeFormula.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.06SomeFormula\bin\Debug\05.06SomeFormula.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.06SomeFormula\bin\Debug\05.06SomeFormula.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.06SomeFormula\obj\Debug\05.06SomeFormula.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.06SomeFormula\obj\Debug\05.06SomeFormula.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 2\Tasks\Arrays\04BigestSequence\bin\Debug\04BigestSequence.exe.config
+D:\Lessons\C#\C# part 2\Tasks\Arrays\04BigestSequence\bin\Debug\04BigestSequence.exe
+D:\Lessons\C#\C# part 2\Tasks\Arrays\04BigestSequence\bin\Debug\04BigestSequence.pdb
+D:\Lessons\C#\C# part 2\Tasks\Arrays\04BigestSequence\obj\Debug\04BigestSequence.exe
+D:\Lessons\C#\C# part 2\Tasks\Arrays\04BigestSequence\obj\Debug\04BigestSequence.pdb

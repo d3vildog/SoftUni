@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.10NthCatalanNumber\bin\Debug\05.10NthCatalanNumber.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.10NthCatalanNumber\bin\Debug\05.10NthCatalanNumber.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.10NthCatalanNumber\bin\Debug\05.10NthCatalanNumber.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.10NthCatalanNumber\obj\Debug\05.10NthCatalanNumber.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.10NthCatalanNumber\obj\Debug\05.10NthCatalanNumber.pdb

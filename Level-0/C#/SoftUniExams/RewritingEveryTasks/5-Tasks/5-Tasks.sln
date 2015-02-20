@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.WeAllLoveBits", "01.WeAllLoveBits\01.WeAllLoveBits.csproj", "{BDED8AE8-691C-4015-B460-5F6DF0428858}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.FriendBits", "02.FriendBits\02.FriendBits.csproj", "{0CFB81A4-7FC7-486E-9C30-62F371306152}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.BitsInverter", "03\03.BitsInverter.csproj", "{F31078E8-0E7B-418B-A73A-4B5158E8FCB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDED8AE8-691C-4015-B460-5F6DF0428858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDED8AE8-691C-4015-B460-5F6DF0428858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDED8AE8-691C-4015-B460-5F6DF0428858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDED8AE8-691C-4015-B460-5F6DF0428858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CFB81A4-7FC7-486E-9C30-62F371306152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CFB81A4-7FC7-486E-9C30-62F371306152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CFB81A4-7FC7-486E-9C30-62F371306152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CFB81A4-7FC7-486E-9C30-62F371306152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F31078E8-0E7B-418B-A73A-4B5158E8FCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F31078E8-0E7B-418B-A73A-4B5158E8FCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F31078E8-0E7B-418B-A73A-4B5158E8FCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F31078E8-0E7B-418B-A73A-4B5158E8FCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

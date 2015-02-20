@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.03FindingMaxOf3Ints\bin\Debug\04.03FindingMaxOf3Ints.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.03FindingMaxOf3Ints\bin\Debug\04.03FindingMaxOf3Ints.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.03FindingMaxOf3Ints\bin\Debug\04.03FindingMaxOf3Ints.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.03FindingMaxOf3Ints\obj\Debug\04.03FindingMaxOf3Ints.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.03FindingMaxOf3Ints\obj\Debug\04.03FindingMaxOf3Ints.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.03FindingMaxOf3Ints\obj\Debug\04.03FindingMaxOf3Ints.pdb

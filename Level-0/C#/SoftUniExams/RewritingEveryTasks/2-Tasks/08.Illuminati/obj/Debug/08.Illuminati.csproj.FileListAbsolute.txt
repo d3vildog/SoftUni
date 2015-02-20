@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\08.Illuminati\bin\Debug\08.Illuminati.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\08.Illuminati\bin\Debug\08.Illuminati.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\08.Illuminati\obj\Debug\08.Illuminati.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\08.Illuminati\obj\Debug\08.Illuminati.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\08.Illuminati\obj\Debug\08.Illuminati.pdb

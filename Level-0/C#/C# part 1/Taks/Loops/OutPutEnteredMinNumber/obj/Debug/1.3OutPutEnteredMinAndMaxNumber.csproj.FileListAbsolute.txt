@@ -1,0 +1,6 @@
+D:\Lessons\C#\Loops\OutPutEnteredMinNumber\bin\Debug\OutPutEnteredMinNumber.exe.config
+D:\Lessons\C#\Loops\OutPutEnteredMinNumber\bin\Debug\OutPutEnteredMinNumber.exe
+D:\Lessons\C#\Loops\OutPutEnteredMinNumber\bin\Debug\OutPutEnteredMinNumber.pdb
+D:\Lessons\C#\Loops\OutPutEnteredMinNumber\obj\Debug\OutPutEnteredMinNumber.exe
+D:\Lessons\C#\Loops\OutPutEnteredMinNumber\obj\Debug\OutPutEnteredMinNumber.pdb
+D:\Lessons\C#\Loops\OutPutEnteredMinNumber\obj\Debug\1.3OutPutEnteredMinAndMaxNumber.csprojResolveAssemblyReference.cache

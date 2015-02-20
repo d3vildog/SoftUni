@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\1.Cinema\bin\Debug\1.Cinema.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\1.Cinema\bin\Debug\1.Cinema.pdb
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\1.Cinema\obj\Debug\1.Cinema.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\1.Cinema\obj\Debug\1.Cinema.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\1.Cinema\obj\Debug\1.Cinema.pdb

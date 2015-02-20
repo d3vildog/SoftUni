@@ -1,0 +1,6 @@
+D:\Lessons\C#\Loops\12\bin\Debug\12.exe.config
+D:\Lessons\C#\Loops\12\bin\Debug\12.exe
+D:\Lessons\C#\Loops\12\bin\Debug\12.pdb
+D:\Lessons\C#\Loops\12\obj\Debug\12.exe
+D:\Lessons\C#\Loops\12\obj\Debug\12.pdb
+D:\Lessons\C#\Loops\12\obj\Debug\12.OutputMatrix.csprojResolveAssemblyReference.cache

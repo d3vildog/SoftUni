@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.06QuadricEquasion\bin\Debug\04.06QuadricEquasion.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.06QuadricEquasion\bin\Debug\04.06QuadricEquasion.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.06QuadricEquasion\bin\Debug\04.06QuadricEquasion.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.06QuadricEquasion\obj\Debug\04.06QuadricEquasion.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.06QuadricEquasion\obj\Debug\04.06QuadricEquasion.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.06QuadricEquasion\obj\Debug\04.06QuadricEquasion.pdb

@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\11.WineGlass\bin\Debug\11.WineGlass.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\11.WineGlass\bin\Debug\11.WineGlass.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\11.WineGlass\obj\Debug\11.WineGlass.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\11.WineGlass\obj\Debug\11.WineGlass.pdb

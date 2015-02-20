@@ -1,0 +1,1 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.08ChangingUserInputWithSwitch\bin\Debug\04.08ChangingUserInputWithSwitch.exe.config

@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\07.Workhours\bin\Debug\07.Workhours.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\07.Workhours\bin\Debug\07.Workhours.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\07.Workhours\obj\Debug\07.Workhours.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\07.Workhours\obj\Debug\07.Workhours.pdb

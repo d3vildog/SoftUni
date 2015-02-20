@@ -1,0 +1,5 @@
+D:\Lessons\C#\ConditionalConstructions\1.1ShowingSign\bin\Debug\1.1ShowingSign.exe.config
+D:\Lessons\C#\ConditionalConstructions\1.1ShowingSign\bin\Debug\1.1ShowingSign.exe
+D:\Lessons\C#\ConditionalConstructions\1.1ShowingSign\bin\Debug\1.1ShowingSign.pdb
+D:\Lessons\C#\ConditionalConstructions\1.1ShowingSign\obj\Debug\1.1ShowingSign.exe
+D:\Lessons\C#\ConditionalConstructions\1.1ShowingSign\obj\Debug\1.1ShowingSign.pdb

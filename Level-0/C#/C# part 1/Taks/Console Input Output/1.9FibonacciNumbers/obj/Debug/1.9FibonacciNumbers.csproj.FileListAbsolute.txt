@@ -1,0 +1,6 @@
+D:\Lessons\C#\Console Input Output\1.9FibonacciNumbers\bin\Debug\1.9FibonacciNumbers.exe.config
+D:\Lessons\C#\Console Input Output\1.9FibonacciNumbers\obj\Debug\1.9FibonacciNumbers.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Console Input Output\1.9FibonacciNumbers\bin\Debug\1.9FibonacciNumbers.exe
+D:\Lessons\C#\Console Input Output\1.9FibonacciNumbers\bin\Debug\1.9FibonacciNumbers.pdb
+D:\Lessons\C#\Console Input Output\1.9FibonacciNumbers\obj\Debug\1.9FibonacciNumbers.exe
+D:\Lessons\C#\Console Input Output\1.9FibonacciNumbers\obj\Debug\1.9FibonacciNumbers.pdb

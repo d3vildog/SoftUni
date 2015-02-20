@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\1.MelonsAndWatermelons\bin\Debug\1.MelonsAndWatermelons.pdb
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\1.MelonsAndWatermelons\obj\Debug\1.MelonsAndWatermelons.pdb

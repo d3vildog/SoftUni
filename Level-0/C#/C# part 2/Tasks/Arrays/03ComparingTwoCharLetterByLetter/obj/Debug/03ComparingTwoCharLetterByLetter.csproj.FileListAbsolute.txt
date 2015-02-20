@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 2\Tasks\Arrays\03ComparingTwoCharLetterByLetter\bin\Debug\03ComparingTwoCharLetterByLetter.exe.config
+D:\Lessons\C#\C# part 2\Tasks\Arrays\03ComparingTwoCharLetterByLetter\bin\Debug\03ComparingTwoCharLetterByLetter.exe
+D:\Lessons\C#\C# part 2\Tasks\Arrays\03ComparingTwoCharLetterByLetter\bin\Debug\03ComparingTwoCharLetterByLetter.pdb
+D:\Lessons\C#\C# part 2\Tasks\Arrays\03ComparingTwoCharLetterByLetter\obj\Debug\03ComparingTwoCharLetterByLetter.exe
+D:\Lessons\C#\C# part 2\Tasks\Arrays\03ComparingTwoCharLetterByLetter\obj\Debug\03ComparingTwoCharLetterByLetter.pdb

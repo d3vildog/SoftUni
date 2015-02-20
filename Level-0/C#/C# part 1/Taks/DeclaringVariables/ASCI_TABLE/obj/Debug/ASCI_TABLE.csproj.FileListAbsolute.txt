@@ -1,0 +1,5 @@
+D:\Lessons\C#\DeclaringVariables\ASCI_TABLE\bin\Debug\ASCI_TABLE.exe.config
+D:\Lessons\C#\DeclaringVariables\ASCI_TABLE\bin\Debug\ASCI_TABLE.exe
+D:\Lessons\C#\DeclaringVariables\ASCI_TABLE\bin\Debug\ASCI_TABLE.pdb
+D:\Lessons\C#\DeclaringVariables\ASCI_TABLE\obj\Debug\ASCI_TABLE.exe
+D:\Lessons\C#\DeclaringVariables\ASCI_TABLE\obj\Debug\ASCI_TABLE.pdb

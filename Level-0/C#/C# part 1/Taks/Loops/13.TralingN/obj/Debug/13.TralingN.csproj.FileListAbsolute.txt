@@ -1,0 +1,5 @@
+D:\Lessons\C#\Loops\13.TralingN\bin\Debug\13.TralingN.exe.config
+D:\Lessons\C#\Loops\13.TralingN\bin\Debug\13.TralingN.exe
+D:\Lessons\C#\Loops\13.TralingN\bin\Debug\13.TralingN.pdb
+D:\Lessons\C#\Loops\13.TralingN\obj\Debug\13.TralingN.exe
+D:\Lessons\C#\Loops\13.TralingN\obj\Debug\13.TralingN.pdb

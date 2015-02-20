@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.05MaxNumberFromAB\bin\Debug\03.05MaxNumberFromAB.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.05MaxNumberFromAB\bin\Debug\03.05MaxNumberFromAB.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.05MaxNumberFromAB\bin\Debug\03.05MaxNumberFromAB.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.05MaxNumberFromAB\obj\Debug\03.05MaxNumberFromAB.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.05MaxNumberFromAB\obj\Debug\03.05MaxNumberFromAB.pdb

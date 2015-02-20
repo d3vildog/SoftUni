@@ -1,0 +1,5 @@
+D:\Lessons\C#\ConditionalConstructions\2.4From 0 to 999\bin\Debug\2.4From 0 to 999.exe.config
+D:\Lessons\C#\ConditionalConstructions\2.4From 0 to 999\bin\Debug\2.4From 0 to 999.exe
+D:\Lessons\C#\ConditionalConstructions\2.4From 0 to 999\bin\Debug\2.4From 0 to 999.pdb
+D:\Lessons\C#\ConditionalConstructions\2.4From 0 to 999\obj\Debug\2.4From 0 to 999.exe
+D:\Lessons\C#\ConditionalConstructions\2.4From 0 to 999\obj\Debug\2.4From 0 to 999.pdb

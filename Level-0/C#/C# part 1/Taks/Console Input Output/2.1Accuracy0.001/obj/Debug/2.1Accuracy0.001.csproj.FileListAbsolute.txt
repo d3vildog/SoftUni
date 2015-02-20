@@ -1,0 +1,6 @@
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\bin\Debug\2.1Accuracy0.001.exe.config
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\bin\Debug\2.1Accuracy0.001.exe
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\bin\Debug\2.1Accuracy0.001.pdb
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\obj\Debug\2.1Accuracy0.001.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\obj\Debug\2.1Accuracy0.001.exe
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\obj\Debug\2.1Accuracy0.001.pdb

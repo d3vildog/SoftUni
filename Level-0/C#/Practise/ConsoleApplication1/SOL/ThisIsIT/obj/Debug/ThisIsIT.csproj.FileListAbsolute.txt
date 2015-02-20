@@ -1,0 +1,2 @@
+E:\Lessons\C#\Practise\ConsoleApplication1\SOL\ThisIsIT\bin\Debug\ThisIsIT.exe.config
+E:\Lessons\C#\Practise\ConsoleApplication1\SOL\ThisIsIT\obj\Debug\ThisIsIT.csprojResolveAssemblyReference.cache

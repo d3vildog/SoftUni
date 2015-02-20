@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.01SummingThreeElements\bin\Debug\03.01SummingThreeElements.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.01SummingThreeElements\bin\Debug\03.01SummingThreeElements.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.01SummingThreeElements\bin\Debug\03.01SummingThreeElements.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.01SummingThreeElements\obj\Debug\03.01SummingThreeElements.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.01SummingThreeElements\obj\Debug\03.01SummingThreeElements.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.01SummingThreeElements\obj\Debug\03.01SummingThreeElements.pdb

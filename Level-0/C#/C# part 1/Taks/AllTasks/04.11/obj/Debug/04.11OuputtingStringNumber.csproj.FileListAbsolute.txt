@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.11\bin\Debug\04.11.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.11\bin\Debug\04.11.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.11\bin\Debug\04.11.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.11\obj\Debug\04.11OuputtingStringNumber.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.11\obj\Debug\04.11.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.11\obj\Debug\04.11.pdb

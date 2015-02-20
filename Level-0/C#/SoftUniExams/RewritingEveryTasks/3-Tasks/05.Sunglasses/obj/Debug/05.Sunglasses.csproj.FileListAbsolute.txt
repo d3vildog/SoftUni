@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\05.Sunglasses\bin\Debug\05.Sunglasses.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\05.Sunglasses\bin\Debug\05.Sunglasses.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\05.Sunglasses\obj\Debug\05.Sunglasses.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\05.Sunglasses\obj\Debug\05.Sunglasses.pdb

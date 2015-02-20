@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\04.Electricity\bin\Debug\04.Electricity.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\04.Electricity\bin\Debug\04.Electricity.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\04.Electricity\obj\Debug\04.Electricity.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\04.Electricity\obj\Debug\04.Electricity.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\04.Electricity\obj\Debug\04.Electricity.pdb

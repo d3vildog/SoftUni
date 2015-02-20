@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\07.Explorer\bin\Debug\07.Explorer.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\07.Explorer\bin\Debug\07.Explorer.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\07.Explorer\obj\Debug\07.Explorer.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\07.Explorer\obj\Debug\07.Explorer.pdb

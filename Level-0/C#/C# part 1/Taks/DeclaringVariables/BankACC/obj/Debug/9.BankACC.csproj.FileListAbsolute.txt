@@ -1,0 +1,5 @@
+D:\Lessons\C#\DeclaringVariables\BankACC\bin\Debug\BankACC.exe.config
+D:\Lessons\C#\DeclaringVariables\BankACC\bin\Debug\BankACC.exe
+D:\Lessons\C#\DeclaringVariables\BankACC\bin\Debug\BankACC.pdb
+D:\Lessons\C#\DeclaringVariables\BankACC\obj\Debug\BankACC.exe
+D:\Lessons\C#\DeclaringVariables\BankACC\obj\Debug\BankACC.pdb

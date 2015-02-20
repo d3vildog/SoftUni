@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\1.ExamSchedule\bin\Debug\1.ExamSchedule.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\1.ExamSchedule\bin\Debug\1.ExamSchedule.pdb
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\1.ExamSchedule\obj\Debug\1.ExamSchedule.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\1.ExamSchedule\obj\Debug\1.ExamSchedule.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\1.ExamSchedule\obj\Debug\1.ExamSchedule.pdb

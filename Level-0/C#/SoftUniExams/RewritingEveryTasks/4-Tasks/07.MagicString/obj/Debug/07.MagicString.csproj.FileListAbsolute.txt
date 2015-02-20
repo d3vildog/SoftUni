@@ -1,0 +1,6 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\07.MagicString\bin\Debug\07.MagicString.exe.config
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\07.MagicString\obj\Debug\07.MagicString.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\07.MagicString\bin\Debug\07.MagicString.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\07.MagicString\bin\Debug\07.MagicString.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\07.MagicString\obj\Debug\07.MagicString.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\07.MagicString\obj\Debug\07.MagicString.pdb

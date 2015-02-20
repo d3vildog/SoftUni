@@ -1,0 +1,7 @@
+D:\Lessons\C#\DeclaringVariables\quotations\bin\Debug\quotations.exe.config
+D:\Lessons\C#\DeclaringVariables\quotations\bin\Debug\quotations.exe
+D:\Lessons\C#\DeclaringVariables\quotations\bin\Debug\quotations.pdb
+D:\Lessons\C#\DeclaringVariables\quotations\obj\Debug\quotations.exe
+D:\Lessons\C#\DeclaringVariables\quotations\obj\Debug\quotations.pdb
+D:\Lessons\C#\DeclaringVariables\quotations\bin\Debug\quotations.exe.CodeAnalysisLog.xml
+D:\Lessons\C#\DeclaringVariables\quotations\bin\Debug\quotations.exe.lastcodeanalysissucceeded

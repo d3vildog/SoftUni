@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\01.BullsAndCows\bin\Debug\01.BullsAndCows.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\01.BullsAndCows\bin\Debug\01.BullsAndCows.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\01.BullsAndCows\obj\Debug\01.BullsAndCows.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\01.BullsAndCows\obj\Debug\01.BullsAndCows.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\01.BullsAndCows\obj\Debug\01.BullsAndCows.pdb

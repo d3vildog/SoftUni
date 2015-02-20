@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\12.ProgrammersDNA\bin\Debug\12.ProgrammersDNA.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\12.ProgrammersDNA\bin\Debug\12.ProgrammersDNA.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\12.ProgrammersDNA\obj\Debug\12.ProgrammersDNA.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\12.ProgrammersDNA\obj\Debug\12.ProgrammersDNA.pdb

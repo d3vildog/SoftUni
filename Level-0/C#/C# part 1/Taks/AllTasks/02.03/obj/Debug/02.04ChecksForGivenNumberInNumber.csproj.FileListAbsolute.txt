@@ -1,0 +1,9 @@
+D:\Lessons\C#\AllTasks\02.03\bin\Debug\02.03.exe.config
+D:\Lessons\C#\AllTasks\02.03\bin\Debug\02.03.exe
+D:\Lessons\C#\AllTasks\02.03\bin\Debug\02.03.pdb
+D:\Lessons\C#\AllTasks\02.03\obj\Debug\02.03.exe
+D:\Lessons\C#\AllTasks\02.03\obj\Debug\02.03.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03\bin\Debug\02.03.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03\obj\Debug\02.03.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03\obj\Debug\02.03.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\02.03\obj\Debug\02.04ChecksForGivenNumberInNumber.csprojResolveAssemblyReference.cache

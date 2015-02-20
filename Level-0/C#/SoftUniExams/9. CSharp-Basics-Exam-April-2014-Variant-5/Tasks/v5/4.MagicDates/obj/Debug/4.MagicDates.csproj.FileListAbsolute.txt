@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\4.MagicDates\bin\Debug\4.MagicDates.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\4.MagicDates\bin\Debug\4.MagicDates.pdb
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\4.MagicDates\obj\Debug\4.MagicDates.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\4.MagicDates\obj\Debug\4.MagicDates.exe
+E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\4.MagicDates\obj\Debug\4.MagicDates.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\C#\Loops\1.5CalculatingFactorials\bin\Debug\1.5CalculatingFactorials.exe.config
+D:\Lessons\C#\Loops\1.5CalculatingFactorials\bin\Debug\1.5CalculatingFactorials.exe
+D:\Lessons\C#\Loops\1.5CalculatingFactorials\bin\Debug\1.5CalculatingFactorials.pdb
+D:\Lessons\C#\Loops\1.5CalculatingFactorials\obj\Debug\1.5CalculatingFactorials.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\Loops\1.5CalculatingFactorials\obj\Debug\1.5CalculatingFactorials.exe
+D:\Lessons\C#\Loops\1.5CalculatingFactorials\obj\Debug\1.5CalculatingFactorials.pdb

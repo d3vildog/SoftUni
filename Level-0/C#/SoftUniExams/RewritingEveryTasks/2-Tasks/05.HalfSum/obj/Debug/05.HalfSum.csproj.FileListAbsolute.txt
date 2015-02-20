@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\05.HalfSum\bin\Debug\05.HalfSum.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\05.HalfSum\bin\Debug\05.HalfSum.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\05.HalfSum\obj\Debug\05.HalfSum.csprojResolveAssemblyReference.cache
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\05.HalfSum\obj\Debug\05.HalfSum.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\05.HalfSum\obj\Debug\05.HalfSum.pdb

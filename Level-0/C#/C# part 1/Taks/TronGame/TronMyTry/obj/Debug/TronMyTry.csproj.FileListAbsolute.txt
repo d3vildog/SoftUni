@@ -1,0 +1,7 @@
+D:\Lessons\C#\TronGame\TronMyTry\bin\Debug\TronMyTry.exe.config
+D:\Lessons\C#\TronGame\TronMyTry\bin\Debug\TronMyTry.exe
+D:\Lessons\C#\TronGame\TronMyTry\bin\Debug\TronMyTry.pdb
+D:\Lessons\C#\TronGame\TronMyTry\obj\Debug\TronMyTry.exe
+D:\Lessons\C#\TronGame\TronMyTry\obj\Debug\TronMyTry.pdb
+D:\Lessons\C#\Console Input Output\1.5GetsBiggerNumber\bin\Debug\TronMyTry.exe.config
+D:\Lessons\C#\Console Input Output\2.1Accuracy0.001\bin\Debug\TronMyTry.exe.config

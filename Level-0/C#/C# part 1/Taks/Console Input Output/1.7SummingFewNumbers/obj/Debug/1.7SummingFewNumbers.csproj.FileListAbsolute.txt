@@ -1,0 +1,6 @@
+D:\Lessons\C#\Console Input Output\1.7SummingFewNumbers\bin\Debug\1.7SummingFewNumbers.exe.config
+D:\Lessons\C#\Console Input Output\1.7SummingFewNumbers\bin\Debug\1.7SummingFewNumbers.exe
+D:\Lessons\C#\Console Input Output\1.7SummingFewNumbers\bin\Debug\1.7SummingFewNumbers.pdb
+D:\Lessons\C#\Console Input Output\1.7SummingFewNumbers\obj\Debug\1.7SummingFewNumbers.exe
+D:\Lessons\C#\Console Input Output\1.7SummingFewNumbers\obj\Debug\1.7SummingFewNumbers.pdb
+D:\Lessons\C#\Console Input Output\1.7SummingFewNumbers\obj\Debug\1.7SummingFewNumbers.csprojResolveAssemblyReference.cache

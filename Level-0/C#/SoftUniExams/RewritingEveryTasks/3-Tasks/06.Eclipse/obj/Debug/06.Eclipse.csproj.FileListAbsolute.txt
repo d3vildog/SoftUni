@@ -1,0 +1,4 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\06.Eclipse\bin\Debug\06.Eclipse.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\06.Eclipse\bin\Debug\06.Eclipse.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\06.Eclipse\obj\Debug\06.Eclipse.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\06.Eclipse\obj\Debug\06.Eclipse.pdb

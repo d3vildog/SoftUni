@@ -1,0 +1,5 @@
+D:\Lessons\SoftUniExams\shitt try\Solution1\5.WeAllLoveBits\bin\Debug\5.WeAllLoveBits.exe
+D:\Lessons\SoftUniExams\shitt try\Solution1\5.WeAllLoveBits\bin\Debug\5.WeAllLoveBits.pdb
+D:\Lessons\SoftUniExams\shitt try\Solution1\5.WeAllLoveBits\obj\Debug\5.WeAllLoveBits.csprojResolveAssemblyReference.cache
+D:\Lessons\SoftUniExams\shitt try\Solution1\5.WeAllLoveBits\obj\Debug\5.WeAllLoveBits.exe
+D:\Lessons\SoftUniExams\shitt try\Solution1\5.WeAllLoveBits\obj\Debug\5.WeAllLoveBits.pdb

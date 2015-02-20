@@ -1,0 +1,10 @@
+D:\Lessons\C#\AllTasks\01.11ExchangingAandB\bin\Debug\01.11ExchangingAandB.exe.config
+D:\Lessons\C#\AllTasks\01.11ExchangingAandB\bin\Debug\01.11ExchangingAandB.exe
+D:\Lessons\C#\AllTasks\01.11ExchangingAandB\bin\Debug\01.11ExchangingAandB.pdb
+D:\Lessons\C#\AllTasks\01.11ExchangingAandB\obj\Debug\01.11ExchangingAandB.exe
+D:\Lessons\C#\AllTasks\01.11ExchangingAandB\obj\Debug\01.11ExchangingAandB.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.11ExchangingAandB\bin\Debug\01.11ExchangingAandB.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.11ExchangingAandB\bin\Debug\01.11ExchangingAandB.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.11ExchangingAandB\bin\Debug\01.11ExchangingAandB.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.11ExchangingAandB\obj\Debug\01.11ExchangingAandB.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\01.11ExchangingAandB\obj\Debug\01.11ExchangingAandB.pdb

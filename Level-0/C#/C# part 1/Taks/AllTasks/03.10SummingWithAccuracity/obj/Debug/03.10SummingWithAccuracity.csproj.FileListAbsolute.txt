@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.10SummingWithAccuracity\bin\Debug\03.10SummingWithAccuracity.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.10SummingWithAccuracity\bin\Debug\03.10SummingWithAccuracity.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.10SummingWithAccuracity\bin\Debug\03.10SummingWithAccuracity.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.10SummingWithAccuracity\obj\Debug\03.10SummingWithAccuracity.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\03.10SummingWithAccuracity\obj\Debug\03.10SummingWithAccuracity.pdb

@@ -1,0 +1,6 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.09CheckingForSumOf0\bin\Debug\04.09CheckingForSumOf0.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.09CheckingForSumOf0\bin\Debug\04.09CheckingForSumOf0.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.09CheckingForSumOf0\bin\Debug\04.09CheckingForSumOf0.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.09CheckingForSumOf0\obj\Debug\04.09CheckingForSumOf0.csprojResolveAssemblyReference.cache
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.09CheckingForSumOf0\obj\Debug\04.09CheckingForSumOf0.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\04.09CheckingForSumOf0\obj\Debug\04.09CheckingForSumOf0.pdb

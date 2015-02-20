@@ -1,0 +1,5 @@
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\3.TheExplorer\bin\Debug\3.TheExplorer.exe
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\3.TheExplorer\bin\Debug\3.TheExplorer.pdb
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\3.TheExplorer\obj\Debug\3.TheExplorer.exe
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\3.TheExplorer\obj\Debug\3.TheExplorer.pdb
+D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\3.TheExplorer\obj\Debug\3.TheExplorer.csprojResolveAssemblyReference.cache

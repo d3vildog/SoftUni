@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.04\bin\Debug\05.04.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.04\bin\Debug\05.04.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.04\bin\Debug\05.04.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.04\obj\Debug\05.04.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.04\obj\Debug\05.04.pdb

@@ -1,0 +1,5 @@
+D:\Lessons\C#\Loops\1.2Print[1..N]Not3And7\bin\Debug\_1._2Print_1._.N_Not3And7.exe.config
+D:\Lessons\C#\Loops\1.2Print[1..N]Not3And7\bin\Debug\_1._2Print_1._.N_Not3And7.exe
+D:\Lessons\C#\Loops\1.2Print[1..N]Not3And7\bin\Debug\_1._2Print_1._.N_Not3And7.pdb
+D:\Lessons\C#\Loops\1.2Print[1..N]Not3And7\obj\Debug\_1._2Print_1._.N_Not3And7.exe
+D:\Lessons\C#\Loops\1.2Print[1..N]Not3And7\obj\Debug\_1._2Print_1._.N_Not3And7.pdb

@@ -1,0 +1,5 @@
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\02.PokerSrtaight\bin\Debug\02.PokerSrtaight.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\02.PokerSrtaight\bin\Debug\02.PokerSrtaight.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\02.PokerSrtaight\obj\Debug\02.PokerSrtaight.exe
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\02.PokerSrtaight\obj\Debug\02.PokerSrtaight.pdb
+E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\02.PokerSrtaight\obj\Debug\02.PokerSrtaight.csprojResolveAssemblyReference.cache

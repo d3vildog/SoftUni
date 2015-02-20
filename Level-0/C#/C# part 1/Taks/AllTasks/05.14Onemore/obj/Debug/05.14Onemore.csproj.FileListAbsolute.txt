@@ -1,0 +1,5 @@
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.14Onemore\bin\Debug\05.14Onemore.exe.config
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.14Onemore\bin\Debug\05.14Onemore.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.14Onemore\bin\Debug\05.14Onemore.pdb
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.14Onemore\obj\Debug\05.14Onemore.exe
+D:\Lessons\C#\C# part 1\Taks\AllTasks\05.14Onemore\obj\Debug\05.14Onemore.pdb
