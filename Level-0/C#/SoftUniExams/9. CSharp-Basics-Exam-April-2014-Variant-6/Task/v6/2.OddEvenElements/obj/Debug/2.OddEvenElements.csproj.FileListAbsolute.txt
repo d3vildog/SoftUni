@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\2.OddEvenElements\bin\Debug\2.OddEvenElements.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\2.OddEvenElements\bin\Debug\2.OddEvenElements.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\2.OddEvenElements\obj\Debug\2.OddEvenElements.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\2.OddEvenElements\obj\Debug\2.OddEvenElements.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\2.OddEvenElements\obj\Debug\2.OddEvenElements.csprojResolveAssemblyReference.cache

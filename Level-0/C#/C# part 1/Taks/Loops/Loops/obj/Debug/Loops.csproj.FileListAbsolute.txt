@@ -1,1 +1,0 @@
-D:\Lessons\C#\Loops\Loops\bin\Debug\Loops.exe.config

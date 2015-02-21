@@ -1,9 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\bin\Debug\CircleRadius.exe.config
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\bin\Debug\CircleRadius.exe
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\bin\Debug\CircleRadius.pdb
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\obj\Debug\6.CircleRadius.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\obj\Debug\CircleRadius.exe
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\obj\Debug\CircleRadius.pdb
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\CircleRadius\bin\Debug\CircleRadius.exe.config
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\CircleRadius\obj\Debug\CircleRadius.exe
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\CircleRadius\obj\Debug\CircleRadius.pdb

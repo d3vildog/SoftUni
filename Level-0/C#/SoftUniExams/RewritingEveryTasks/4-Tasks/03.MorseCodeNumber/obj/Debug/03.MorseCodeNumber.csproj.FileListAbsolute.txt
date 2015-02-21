@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\03.MorseCodeNumber\obj\Debug\03.MorseCodeNumber.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\03.MorseCodeNumber\bin\Debug\03.MorseCodeNumber.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\03.MorseCodeNumber\bin\Debug\03.MorseCodeNumber.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\03.MorseCodeNumber\obj\Debug\03.MorseCodeNumber.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\03.MorseCodeNumber\obj\Debug\03.MorseCodeNumber.pdb

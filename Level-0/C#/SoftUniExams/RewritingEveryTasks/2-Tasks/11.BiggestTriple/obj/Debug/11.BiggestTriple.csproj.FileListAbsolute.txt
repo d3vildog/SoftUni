@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\11.BiggestTriple\bin\Debug\11.BiggestTriple.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\11.BiggestTriple\bin\Debug\11.BiggestTriple.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\11.BiggestTriple\obj\Debug\11.BiggestTriple.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\11.BiggestTriple\obj\Debug\11.BiggestTriple.pdb

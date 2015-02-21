@@ -1,1 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.09FibonaciSequence\bin\Debug\03.09FibonaciSequence.exe.config

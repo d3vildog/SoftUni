@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\Ihopeilearn it\bin\Debug\Ihopeilearn it.exe.config
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\Ihopeilearn it\obj\Debug\Ihopeilearn it.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\Ihopeilearn it\bin\Debug\Ihopeilearn it.exe
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\Ihopeilearn it\bin\Debug\Ihopeilearn it.pdb
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\Ihopeilearn it\obj\Debug\Ihopeilearn it.exe
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\Ihopeilearn it\obj\Debug\Ihopeilearn it.pdb

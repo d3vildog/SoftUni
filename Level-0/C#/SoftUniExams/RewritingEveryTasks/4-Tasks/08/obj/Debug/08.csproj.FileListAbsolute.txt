@@ -1,6 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\08\bin\Debug\08.exe.config
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\08\obj\Debug\08.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\08\obj\Debug\08.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\08\obj\Debug\08.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\08\bin\Debug\08.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\08\bin\Debug\08.pdb

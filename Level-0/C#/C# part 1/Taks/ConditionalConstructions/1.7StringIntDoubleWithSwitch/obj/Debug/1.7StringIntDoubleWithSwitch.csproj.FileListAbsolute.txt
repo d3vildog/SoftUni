@@ -1,8 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\1.7StringIntDoubleWithSwitch\bin\Debug\1.7StringIntDoubleWithSwitch.exe.config
-D:\Lessons\C#\ConditionalConstructions\1.7StringIntDoubleWithSwitch\bin\Debug\1.7StringIntDoubleWithSwitch.exe
-D:\Lessons\C#\ConditionalConstructions\1.7StringIntDoubleWithSwitch\bin\Debug\1.7StringIntDoubleWithSwitch.pdb
-D:\Lessons\C#\ConditionalConstructions\1.7StringIntDoubleWithSwitch\obj\Debug\1.7StringIntDoubleWithSwitch.exe
-D:\Lessons\C#\ConditionalConstructions\1.7StringIntDoubleWithSwitch\obj\Debug\1.7StringIntDoubleWithSwitch.pdb
-D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\1.7StringIntDoubleWithSwitch\bin\Debug\1.7StringIntDoubleWithSwitch.exe.config
-D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\1.7StringIntDoubleWithSwitch\obj\Debug\1.7StringIntDoubleWithSwitch.exe
-D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\1.7StringIntDoubleWithSwitch\obj\Debug\1.7StringIntDoubleWithSwitch.pdb

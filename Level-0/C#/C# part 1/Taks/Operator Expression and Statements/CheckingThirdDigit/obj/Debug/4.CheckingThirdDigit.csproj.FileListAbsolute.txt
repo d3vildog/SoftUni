@@ -1,5 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\CheckingThirdDigit\bin\Debug\CheckingThirdDigit.exe.config
-D:\Lessons\C#\Operator Expression and Statements\CheckingThirdDigit\bin\Debug\CheckingThirdDigit.exe
-D:\Lessons\C#\Operator Expression and Statements\CheckingThirdDigit\bin\Debug\CheckingThirdDigit.pdb
-D:\Lessons\C#\Operator Expression and Statements\CheckingThirdDigit\obj\Debug\CheckingThirdDigit.exe
-D:\Lessons\C#\Operator Expression and Statements\CheckingThirdDigit\obj\Debug\CheckingThirdDigit.pdb

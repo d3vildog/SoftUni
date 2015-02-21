@@ -1,5 +1,0 @@
-D:\Lessons\C#\DeclaringVariables\NullValue\bin\Debug\NullValue.exe.config
-D:\Lessons\C#\DeclaringVariables\NullValue\bin\Debug\NullValue.exe
-D:\Lessons\C#\DeclaringVariables\NullValue\bin\Debug\NullValue.pdb
-D:\Lessons\C#\DeclaringVariables\NullValue\obj\Debug\NullValue.exe
-D:\Lessons\C#\DeclaringVariables\NullValue\obj\Debug\NullValue.pdb

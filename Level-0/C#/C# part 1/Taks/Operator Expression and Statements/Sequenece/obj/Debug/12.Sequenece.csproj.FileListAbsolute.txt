@@ -1,6 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\bin\Debug\Sequenece.exe.config
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\bin\Debug\Sequenece.exe
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\bin\Debug\Sequenece.pdb
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\obj\Debug\12.Sequenece.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\obj\Debug\Sequenece.exe
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\obj\Debug\Sequenece.pdb

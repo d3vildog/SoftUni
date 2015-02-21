@@ -1,5 +1,0 @@
-D:\Lessons\C#\Console Input Output\1.2PrintingAreaAndPerimeterOfCyrcle\bin\Debug\1.2PrintingAreaAndPerimeterOfCyrcle.exe.config
-D:\Lessons\C#\Console Input Output\1.2PrintingAreaAndPerimeterOfCyrcle\bin\Debug\1.2PrintingAreaAndPerimeterOfCyrcle.exe
-D:\Lessons\C#\Console Input Output\1.2PrintingAreaAndPerimeterOfCyrcle\bin\Debug\1.2PrintingAreaAndPerimeterOfCyrcle.pdb
-D:\Lessons\C#\Console Input Output\1.2PrintingAreaAndPerimeterOfCyrcle\obj\Debug\1.2PrintingAreaAndPerimeterOfCyrcle.exe
-D:\Lessons\C#\Console Input Output\1.2PrintingAreaAndPerimeterOfCyrcle\obj\Debug\1.2PrintingAreaAndPerimeterOfCyrcle.pdb

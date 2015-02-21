@@ -1,6 +1,0 @@
-D:\Lessons\C#\MatrixTelerikLogo\MatrixTelerikLogo\bin\Debug\MatrixTelerikLogo.exe.config
-D:\Lessons\C#\MatrixTelerikLogo\MatrixTelerikLogo\obj\Debug\MatrixTelerikLogo.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\MatrixTelerikLogo\MatrixTelerikLogo\bin\Debug\MatrixTelerikLogo.exe
-D:\Lessons\C#\MatrixTelerikLogo\MatrixTelerikLogo\bin\Debug\MatrixTelerikLogo.pdb
-D:\Lessons\C#\MatrixTelerikLogo\MatrixTelerikLogo\obj\Debug\MatrixTelerikLogo.exe
-D:\Lessons\C#\MatrixTelerikLogo\MatrixTelerikLogo\obj\Debug\MatrixTelerikLogo.pdb

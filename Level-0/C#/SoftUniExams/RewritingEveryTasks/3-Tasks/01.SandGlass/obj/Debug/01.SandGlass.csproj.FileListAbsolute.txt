@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\01.SandGlass\bin\Debug\01.SandGlass.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\01.SandGlass\bin\Debug\01.SandGlass.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\01.SandGlass\obj\Debug\01.SandGlass.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\01.SandGlass\obj\Debug\01.SandGlass.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\01.SandGlass\obj\Debug\01.SandGlass.pdb

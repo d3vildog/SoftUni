@@ -1,6 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\05.Nine-Digit Magic Number\bin\Debug\05.Nine-Digit Magic Number.exe.config
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\05.Nine-Digit Magic Number\bin\Debug\05.Nine-Digit Magic Number.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\05.Nine-Digit Magic Number\bin\Debug\05.Nine-Digit Magic Number.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\05.Nine-Digit Magic Number\obj\Debug\05.Nine-Digit Magic Number.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\05.Nine-Digit Magic Number\obj\Debug\05.Nine-Digit Magic Number.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\05.Nine-Digit Magic Number\obj\Debug\05.Nine-Digit Magic Number.pdb

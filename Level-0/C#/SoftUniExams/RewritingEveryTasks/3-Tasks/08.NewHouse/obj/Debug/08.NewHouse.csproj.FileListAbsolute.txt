@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\08.NewHouse\bin\Debug\08.NewHouse.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\08.NewHouse\bin\Debug\08.NewHouse.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\08.NewHouse\obj\Debug\08.NewHouse.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\08.NewHouse\obj\Debug\08.NewHouse.pdb

@@ -1,5 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\2.SumOfElements\bin\Debug\2.SumOfElements.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\2.SumOfElements\bin\Debug\2.SumOfElements.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\2.SumOfElements\obj\Debug\2.SumOfElements.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\2.SumOfElements\obj\Debug\2.SumOfElements.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\2.SumOfElements\obj\Debug\2.SumOfElements.pdb

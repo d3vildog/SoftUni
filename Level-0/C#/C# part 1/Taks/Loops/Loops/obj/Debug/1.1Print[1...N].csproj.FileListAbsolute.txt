@@ -1,6 +1,0 @@
-D:\Lessons\C#\Loops\Loops\bin\Debug\Loops.exe.config
-D:\Lessons\C#\Loops\Loops\bin\Debug\Loops.exe
-D:\Lessons\C#\Loops\Loops\bin\Debug\Loops.pdb
-D:\Lessons\C#\Loops\Loops\obj\Debug\1.1Print[1...N].csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Loops\Loops\obj\Debug\Loops.exe
-D:\Lessons\C#\Loops\Loops\obj\Debug\Loops.pdb

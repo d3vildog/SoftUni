@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\2.BiggestTriple\bin\Debug\2.BiggestTriple.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\2.BiggestTriple\bin\Debug\2.BiggestTriple.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\2.BiggestTriple\obj\Debug\2.BiggestTriple.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\2.BiggestTriple\obj\Debug\2.BiggestTriple.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\2.BiggestTriple\obj\Debug\2.BiggestTriple.csprojResolveAssemblyReference.cache

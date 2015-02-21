@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\3.Arrow\bin\Debug\3.Arrow.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\3.Arrow\bin\Debug\3.Arrow.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\3.Arrow\obj\Debug\3.Arrow.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\3.Arrow\obj\Debug\3.Arrow.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-6\Task\v6\3.Arrow\obj\Debug\3.Arrow.pdb

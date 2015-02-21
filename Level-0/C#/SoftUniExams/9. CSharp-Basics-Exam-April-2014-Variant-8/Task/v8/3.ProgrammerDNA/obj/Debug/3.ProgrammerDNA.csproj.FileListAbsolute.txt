@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\3.ProgrammerDNA\bin\Debug\3.ProgrammerDNA.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\3.ProgrammerDNA\bin\Debug\3.ProgrammerDNA.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\3.ProgrammerDNA\obj\Debug\3.ProgrammerDNA.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\3.ProgrammerDNA\obj\Debug\3.ProgrammerDNA.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\3.ProgrammerDNA\obj\Debug\3.ProgrammerDNA.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.13PrintOutTrailingZeros\bin\Debug\05.13PrintOutTrailingZeros.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.13PrintOutTrailingZeros\bin\Debug\05.13PrintOutTrailingZeros.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.13PrintOutTrailingZeros\bin\Debug\05.13PrintOutTrailingZeros.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.13PrintOutTrailingZeros\obj\Debug\05.13PrintOutTrailingZeros.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.13PrintOutTrailingZeros\obj\Debug\05.13PrintOutTrailingZeros.pdb

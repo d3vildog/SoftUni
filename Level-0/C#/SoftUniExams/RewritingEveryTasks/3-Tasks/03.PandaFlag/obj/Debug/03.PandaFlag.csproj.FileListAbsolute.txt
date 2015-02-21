@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\03.PandaFlag\bin\Debug\03.PandaFlag.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\03.PandaFlag\bin\Debug\03.PandaFlag.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\03.PandaFlag\obj\Debug\03.PandaFlag.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\03.PandaFlag\obj\Debug\03.PandaFlag.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\03.PandaFlag\obj\Debug\03.PandaFlag.csprojResolveAssemblyReference.cache

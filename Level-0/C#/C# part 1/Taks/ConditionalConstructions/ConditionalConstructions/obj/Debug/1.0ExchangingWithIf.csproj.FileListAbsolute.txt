@@ -1,9 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\bin\Debug\ConditionalConstructions.exe.config
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\bin\Debug\ConditionalConstructions.exe
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\bin\Debug\ConditionalConstructions.pdb
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\obj\Debug\1.0ExchangingWithIf.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\obj\Debug\ConditionalConstructions.exe
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\obj\Debug\ConditionalConstructions.pdb
-D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\ConditionalConstructions\bin\Debug\ConditionalConstructions.exe.config
-D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\ConditionalConstructions\obj\Debug\ConditionalConstructions.exe
-D:\Lessons\C#\C# part 1\Taks\ConditionalConstructions\ConditionalConstructions\obj\Debug\ConditionalConstructions.pdb

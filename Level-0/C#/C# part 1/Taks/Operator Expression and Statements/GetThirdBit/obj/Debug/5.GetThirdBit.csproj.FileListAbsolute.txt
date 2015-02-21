@@ -1,8 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\GetThirdBit\bin\Debug\GetThirdBit.exe.config
-D:\Lessons\C#\Operator Expression and Statements\GetThirdBit\obj\Debug\GetThirdBit.exe
-D:\Lessons\C#\Operator Expression and Statements\GetThirdBit\obj\Debug\GetThirdBit.pdb
-D:\Lessons\C#\Operator Expression and Statements\GetThirdBit\bin\Debug\GetThirdBit.exe
-D:\Lessons\C#\Operator Expression and Statements\GetThirdBit\bin\Debug\GetThirdBit.pdb
-D:\Lessons\C#\Operator Expression and Statements\GetThirdBit\obj\Debug\5.GetThirdBit.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\GetThirdBit\bin\Debug\GetThirdBit.exe.config
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\GetThirdBit\obj\Debug\GetThirdBit.exe

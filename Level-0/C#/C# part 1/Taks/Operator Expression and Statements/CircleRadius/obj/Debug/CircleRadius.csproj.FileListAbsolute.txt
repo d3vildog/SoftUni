@@ -1,1 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\CircleRadius\bin\Debug\CircleRadius.exe.config

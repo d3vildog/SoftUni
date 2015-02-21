@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\04.HouseWithWindow\bin\Debug\04.HouseWithWindow.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\04.HouseWithWindow\bin\Debug\04.HouseWithWindow.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\04.HouseWithWindow\obj\Debug\04.HouseWithWindow.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\04.HouseWithWindow\obj\Debug\04.HouseWithWindow.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\04.HouseWithWindow\obj\Debug\04.HouseWithWindow.pdb

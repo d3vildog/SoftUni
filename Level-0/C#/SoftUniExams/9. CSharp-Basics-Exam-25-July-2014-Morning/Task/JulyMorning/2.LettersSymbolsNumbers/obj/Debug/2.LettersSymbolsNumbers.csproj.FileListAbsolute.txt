@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\2.LettersSymbolsNumbers\bin\Debug\2.LettersSymbolsNumbers.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\2.LettersSymbolsNumbers\obj\Debug\2.LettersSymbolsNumbers.csprojResolveAssemblyReference.cache

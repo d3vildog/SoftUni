@@ -1,5 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\5.BitsInverter\bin\Debug\5.BitsInverter.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\5.BitsInverter\bin\Debug\5.BitsInverter.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\5.BitsInverter\obj\Debug\5.BitsInverter.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\5.BitsInverter\obj\Debug\5.BitsInverter.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\5.BitsInverter\obj\Debug\5.BitsInverter.pdb

@@ -1,6 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\5.CatchTheBits\bin\Debug\5.CatchTheBits.exe.config
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\5.CatchTheBits\bin\Debug\5.CatchTheBits.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\5.CatchTheBits\bin\Debug\5.CatchTheBits.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\5.CatchTheBits\obj\Debug\5.CatchTheBits.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\5.CatchTheBits\obj\Debug\5.CatchTheBits.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\5.CatchTheBits\obj\Debug\5.CatchTheBits.pdb

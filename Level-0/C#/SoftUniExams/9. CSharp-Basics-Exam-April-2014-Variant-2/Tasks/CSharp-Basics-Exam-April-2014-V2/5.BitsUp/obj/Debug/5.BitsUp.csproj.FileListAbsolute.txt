@@ -1,4 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\5.BitsUp\bin\Debug\5.BitsUp.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\5.BitsUp\bin\Debug\5.BitsUp.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\5.BitsUp\obj\Debug\5.BitsUp.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\5.BitsUp\obj\Debug\5.BitsUp.pdb

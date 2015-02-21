@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.08OuputingNNumbersInLane\bin\Debug\03.08OuputingNNumbersInLane.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.08OuputingNNumbersInLane\bin\Debug\03.08OuputingNNumbersInLane.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.08OuputingNNumbersInLane\bin\Debug\03.08OuputingNNumbersInLane.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.08OuputingNNumbersInLane\obj\Debug\03.08OuputingNNumbersInLane.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.08OuputingNNumbersInLane\obj\Debug\03.08OuputingNNumbersInLane.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.08OuputingNNumbersInLane\obj\Debug\03.08OuputingNNumbersInLane.csprojResolveAssemblyReference.cache

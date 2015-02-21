@@ -1,1 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\2.2From 0 to 999\bin\Debug\2.2From 0 to 999.exe.config

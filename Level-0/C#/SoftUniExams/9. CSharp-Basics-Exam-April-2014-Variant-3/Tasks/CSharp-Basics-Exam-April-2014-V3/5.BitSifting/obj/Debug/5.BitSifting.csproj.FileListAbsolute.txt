@@ -1,6 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\5.BitSifting\bin\Debug\5.BitSifting.exe.config
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\5.BitSifting\bin\Debug\5.BitSifting.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\5.BitSifting\bin\Debug\5.BitSifting.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\5.BitSifting\obj\Debug\5.BitSifting.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\5.BitSifting\obj\Debug\5.BitSifting.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\5.BitSifting\obj\Debug\5.BitSifting.pdb

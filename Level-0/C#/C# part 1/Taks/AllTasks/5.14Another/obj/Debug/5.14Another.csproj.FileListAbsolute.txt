@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\5.14Another\bin\Debug\5.14Another.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\5.14Another\bin\Debug\5.14Another.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\5.14Another\bin\Debug\5.14Another.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\5.14Another\obj\Debug\5.14Another.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\5.14Another\obj\Debug\5.14Another.pdb

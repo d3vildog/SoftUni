@@ -1,1 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\Sequenece\bin\Debug\Sequenece.exe.config

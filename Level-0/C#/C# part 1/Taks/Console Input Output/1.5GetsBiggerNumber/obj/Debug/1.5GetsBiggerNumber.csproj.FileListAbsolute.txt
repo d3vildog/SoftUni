@@ -1,5 +1,0 @@
-D:\Lessons\C#\Console Input Output\1.5GetsBiggerNumber\bin\Debug\1.5GetsBiggerNumber.exe.config
-D:\Lessons\C#\Console Input Output\1.5GetsBiggerNumber\bin\Debug\1.5GetsBiggerNumber.exe
-D:\Lessons\C#\Console Input Output\1.5GetsBiggerNumber\bin\Debug\1.5GetsBiggerNumber.pdb
-D:\Lessons\C#\Console Input Output\1.5GetsBiggerNumber\obj\Debug\1.5GetsBiggerNumber.exe
-D:\Lessons\C#\Console Input Output\1.5GetsBiggerNumber\obj\Debug\1.5GetsBiggerNumber.pdb

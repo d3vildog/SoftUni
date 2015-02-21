@@ -1,6 +1,0 @@
-D:\Lessons\C#\Practise\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Lessons\C#\Practise\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Lessons\C#\Practise\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Lessons\C#\Practise\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Practise\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Lessons\C#\Practise\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,5 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\KindOfAGame\bin\Debug\KindOfAGame.exe.config
-D:\Lessons\C#\Operator Expression and Statements\KindOfAGame\bin\Debug\KindOfAGame.exe
-D:\Lessons\C#\Operator Expression and Statements\KindOfAGame\bin\Debug\KindOfAGame.pdb
-D:\Lessons\C#\Operator Expression and Statements\KindOfAGame\obj\Debug\KindOfAGame.exe
-D:\Lessons\C#\Operator Expression and Statements\KindOfAGame\obj\Debug\KindOfAGame.pdb

@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\02.FitBoxIn\bin\Debug\02.FitBoxIn.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\02.FitBoxIn\bin\Debug\02.FitBoxIn.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\02.FitBoxIn\obj\Debug\02.FitBoxIn.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\02.FitBoxIn\obj\Debug\02.FitBoxIn.pdb

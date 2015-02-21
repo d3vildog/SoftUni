@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\10.Arrow\bin\Debug\10.Arrow.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\10.Arrow\bin\Debug\10.Arrow.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\10.Arrow\obj\Debug\10.Arrow.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\10.Arrow\obj\Debug\10.Arrow.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\10.Arrow\obj\Debug\10.Arrow.pdb

@@ -1,6 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\1.6GreatestNumberFrom5\bin\Debug\1.6GreatestNumberFrom5.exe.config
-D:\Lessons\C#\ConditionalConstructions\1.6GreatestNumberFrom5\bin\Debug\1.6GreatestNumberFrom5.exe
-D:\Lessons\C#\ConditionalConstructions\1.6GreatestNumberFrom5\bin\Debug\1.6GreatestNumberFrom5.pdb
-D:\Lessons\C#\ConditionalConstructions\1.6GreatestNumberFrom5\obj\Debug\1.6GreatestNumberFrom5.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\ConditionalConstructions\1.6GreatestNumberFrom5\obj\Debug\1.6GreatestNumberFrom5.exe
-D:\Lessons\C#\ConditionalConstructions\1.6GreatestNumberFrom5\obj\Debug\1.6GreatestNumberFrom5.pdb

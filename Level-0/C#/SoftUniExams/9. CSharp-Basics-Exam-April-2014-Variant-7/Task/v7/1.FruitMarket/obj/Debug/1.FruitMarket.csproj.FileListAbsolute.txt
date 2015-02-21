@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\1.FruitMarket\obj\Debug\1.FruitMarket.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\1.FruitMarket\bin\Debug\1.FruitMarket.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\1.FruitMarket\bin\Debug\1.FruitMarket.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\1.FruitMarket\obj\Debug\1.FruitMarket.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-7\Task\v7\1.FruitMarket\obj\Debug\1.FruitMarket.pdb

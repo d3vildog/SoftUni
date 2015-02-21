@@ -1,9 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Lessons\C#\Operator Expression and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Lessons\C#\Operator Expression and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Lessons\C#\Operator Expression and Statements\ConsoleApplication1\obj\Debug\9.isPointInCyrcleOrRect.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Operator Expression and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Lessons\C#\Operator Expression and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Lessons\C#\C# part 1\Taks\Operator Expression and Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

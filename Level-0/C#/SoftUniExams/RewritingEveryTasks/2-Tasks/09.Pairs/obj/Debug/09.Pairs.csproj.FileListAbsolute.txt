@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\09.Pairs\bin\Debug\09.Pairs.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\09.Pairs\bin\Debug\09.Pairs.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\09.Pairs\obj\Debug\09.Pairs.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\2-Tasks\09.Pairs\obj\Debug\09.Pairs.pdb

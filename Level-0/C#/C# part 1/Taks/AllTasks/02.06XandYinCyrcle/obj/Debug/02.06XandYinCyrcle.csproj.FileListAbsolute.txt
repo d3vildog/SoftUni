@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.06XandYinCyrcle\bin\Debug\02.06XandYinCyrcle.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.06XandYinCyrcle\bin\Debug\02.06XandYinCyrcle.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.06XandYinCyrcle\bin\Debug\02.06XandYinCyrcle.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.06XandYinCyrcle\obj\Debug\02.06XandYinCyrcle.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.06XandYinCyrcle\obj\Debug\02.06XandYinCyrcle.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.06XandYinCyrcle\obj\Debug\02.06XandYinCyrcle.pdb

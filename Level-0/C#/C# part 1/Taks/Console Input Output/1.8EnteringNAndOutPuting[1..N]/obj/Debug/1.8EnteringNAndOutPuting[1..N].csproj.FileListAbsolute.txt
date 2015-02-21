@@ -1,5 +1,0 @@
-D:\Lessons\C#\Console Input Output\1.8EnteringNAndOutPuting[1..N]\bin\Debug\_1._8EnteringNAndOutPuting_1._.N_.exe.config
-D:\Lessons\C#\Console Input Output\1.8EnteringNAndOutPuting[1..N]\bin\Debug\_1._8EnteringNAndOutPuting_1._.N_.exe
-D:\Lessons\C#\Console Input Output\1.8EnteringNAndOutPuting[1..N]\bin\Debug\_1._8EnteringNAndOutPuting_1._.N_.pdb
-D:\Lessons\C#\Console Input Output\1.8EnteringNAndOutPuting[1..N]\obj\Debug\_1._8EnteringNAndOutPuting_1._.N_.exe
-D:\Lessons\C#\Console Input Output\1.8EnteringNAndOutPuting[1..N]\obj\Debug\_1._8EnteringNAndOutPuting_1._.N_.pdb

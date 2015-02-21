@@ -1,5 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\4.MagicStrings\bin\Debug\4.MagicStrings.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\4.MagicStrings\bin\Debug\4.MagicStrings.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\4.MagicStrings\obj\Debug\4.MagicStrings.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\4.MagicStrings\obj\Debug\4.MagicStrings.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-3\Tasks\CSharp-Basics-Exam-April-2014-V3\4.MagicStrings\obj\Debug\4.MagicStrings.pdb

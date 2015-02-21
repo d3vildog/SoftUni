@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBits\bin\Debug\02.11ExtractingBits.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBits\obj\Debug\02.11ExtractingBits.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBits\bin\Debug\02.11ExtractingBits.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBits\bin\Debug\02.11ExtractingBits.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBits\obj\Debug\02.11ExtractingBits.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBits\obj\Debug\02.11ExtractingBits.pdb

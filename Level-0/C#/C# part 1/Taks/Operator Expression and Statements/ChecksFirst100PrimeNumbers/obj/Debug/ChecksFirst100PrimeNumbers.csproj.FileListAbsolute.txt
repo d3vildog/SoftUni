@@ -1,1 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\ChecksFirst100PrimeNumbers\bin\Debug\ChecksFirst100PrimeNumbers.exe.config

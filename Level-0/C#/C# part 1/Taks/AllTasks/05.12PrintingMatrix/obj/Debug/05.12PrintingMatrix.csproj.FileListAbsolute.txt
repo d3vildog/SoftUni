@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.12PrintingMatrix\bin\Debug\05.12PrintingMatrix.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.12PrintingMatrix\bin\Debug\05.12PrintingMatrix.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.12PrintingMatrix\bin\Debug\05.12PrintingMatrix.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.12PrintingMatrix\obj\Debug\05.12PrintingMatrix.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.12PrintingMatrix\obj\Debug\05.12PrintingMatrix.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.12PrintingMatrix\obj\Debug\05.12PrintingMatrix.pdb

@@ -1,5 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\1.3DescendingSorting3Doubles\bin\Debug\1.3DescendingSorting3Doubles.exe.config
-D:\Lessons\C#\ConditionalConstructions\1.3DescendingSorting3Doubles\bin\Debug\1.3DescendingSorting3Doubles.exe
-D:\Lessons\C#\ConditionalConstructions\1.3DescendingSorting3Doubles\bin\Debug\1.3DescendingSorting3Doubles.pdb
-D:\Lessons\C#\ConditionalConstructions\1.3DescendingSorting3Doubles\obj\Debug\1.3DescendingSorting3Doubles.exe
-D:\Lessons\C#\ConditionalConstructions\1.3DescendingSorting3Doubles\obj\Debug\1.3DescendingSorting3Doubles.pdb

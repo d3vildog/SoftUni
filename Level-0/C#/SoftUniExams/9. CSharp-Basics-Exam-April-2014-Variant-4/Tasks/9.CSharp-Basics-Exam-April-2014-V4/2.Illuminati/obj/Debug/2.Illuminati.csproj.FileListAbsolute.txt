@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\2.Illuminati\bin\Debug\2.Illuminati.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\2.Illuminati\bin\Debug\2.Illuminati.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\2.Illuminati\obj\Debug\2.Illuminati.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\2.Illuminati\obj\Debug\2.Illuminati.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\2.Illuminati\obj\Debug\2.Illuminati.pdb

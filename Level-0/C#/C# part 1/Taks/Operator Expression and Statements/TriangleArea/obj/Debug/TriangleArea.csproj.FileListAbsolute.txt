@@ -1,1 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\TriangleArea\bin\Debug\TriangleArea.exe.config

@@ -1,5 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\1.6.1OtherSolution\bin\Debug\1.6.1OtherSolution.exe.config
-D:\Lessons\C#\ConditionalConstructions\1.6.1OtherSolution\bin\Debug\1.6.1OtherSolution.exe
-D:\Lessons\C#\ConditionalConstructions\1.6.1OtherSolution\bin\Debug\1.6.1OtherSolution.pdb
-D:\Lessons\C#\ConditionalConstructions\1.6.1OtherSolution\obj\Debug\1.6.1OtherSolution.exe
-D:\Lessons\C#\ConditionalConstructions\1.6.1OtherSolution\obj\Debug\1.6.1OtherSolution.pdb

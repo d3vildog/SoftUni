@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\06.HayvanNumbers\bin\Debug\06.HayvanNumbers.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\06.HayvanNumbers\bin\Debug\06.HayvanNumbers.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\06.HayvanNumbers\obj\Debug\06.HayvanNumbers.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\06.HayvanNumbers\obj\Debug\06.HayvanNumbers.pdb

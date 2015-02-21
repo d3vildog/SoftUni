@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\1.InsideTheBuilding\bin\Debug\1.InsideTheBuilding.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\1.InsideTheBuilding\bin\Debug\1.InsideTheBuilding.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\1.InsideTheBuilding\obj\Debug\1.InsideTheBuilding.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\1.InsideTheBuilding\obj\Debug\1.InsideTheBuilding.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\1.InsideTheBuilding\obj\Debug\1.InsideTheBuilding.pdb

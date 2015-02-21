@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\5.BitsFlipper\bin\Debug\5.BitsFlipper.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\5.BitsFlipper\bin\Debug\5.BitsFlipper.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\5.BitsFlipper\obj\Debug\5.BitsFlipper.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\5.BitsFlipper\obj\Debug\5.BitsFlipper.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\5.BitsFlipper\obj\Debug\5.BitsFlipper.pdb

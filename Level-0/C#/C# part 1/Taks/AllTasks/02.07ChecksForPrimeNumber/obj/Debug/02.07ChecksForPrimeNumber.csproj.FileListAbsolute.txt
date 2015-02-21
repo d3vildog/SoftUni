@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\bin\Debug\02.07ChecksForPrimeNumber.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\bin\Debug\02.07ChecksForPrimeNumber.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\bin\Debug\02.07ChecksForPrimeNumber.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\obj\Debug\02.07ChecksForPrimeNumber.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\obj\Debug\02.07ChecksForPrimeNumber.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\obj\Debug\02.07ChecksForPrimeNumber.pdb

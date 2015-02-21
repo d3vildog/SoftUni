@@ -1,1 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\ConditionalConstructions\bin\Debug\ConditionalConstructions.exe.config

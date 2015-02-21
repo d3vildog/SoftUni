@@ -1,5 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\3.Sunglasses\bin\Debug\3.Sunglasses.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\3.Sunglasses\bin\Debug\3.Sunglasses.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\3.Sunglasses\obj\Debug\3.Sunglasses.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\3.Sunglasses\obj\Debug\3.Sunglasses.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\3.Sunglasses\obj\Debug\3.Sunglasses.pdb

@@ -1,3 +1,0 @@
-D:\Lessons\C#\DeclaringVariables\quotations\bin\Debug\quotations.exe.config
-D:\Lessons\C#\DeclaringVariables\quotations\obj\Debug\quotations.exe
-D:\Lessons\C#\DeclaringVariables\quotations\obj\Debug\quotations.pdb

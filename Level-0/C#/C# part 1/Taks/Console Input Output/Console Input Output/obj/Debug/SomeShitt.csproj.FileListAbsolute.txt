@@ -1,6 +1,0 @@
-D:\Lessons\C#\Console Input Output\Console Input Output\bin\Debug\Console Input Output.exe.config
-D:\Lessons\C#\Console Input Output\Console Input Output\bin\Debug\Console Input Output.exe
-D:\Lessons\C#\Console Input Output\Console Input Output\bin\Debug\Console Input Output.pdb
-D:\Lessons\C#\Console Input Output\Console Input Output\obj\Debug\SomeShitt.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Console Input Output\Console Input Output\obj\Debug\Console Input Output.exe
-D:\Lessons\C#\Console Input Output\Console Input Output\obj\Debug\Console Input Output.pdb

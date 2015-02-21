@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\3.PandaScotlandFlag\bin\Debug\3.PandaScotlandFlag.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\3.PandaScotlandFlag\obj\Debug\3.PandaScotlandFlag.pdb

@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\4.MorseCodeNumbers\bin\Debug\4.MorseCodeNumbers.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-25-July-2014-Morning\Task\JulyMorning\4.MorseCodeNumbers\obj\Debug\4.MorseCodeNumbers.pdb

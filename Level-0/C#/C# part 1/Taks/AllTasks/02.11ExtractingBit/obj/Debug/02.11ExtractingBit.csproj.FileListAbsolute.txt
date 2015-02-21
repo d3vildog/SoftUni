@@ -1,1 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.11ExtractingBit\bin\Debug\02.11ExtractingBit.exe.config

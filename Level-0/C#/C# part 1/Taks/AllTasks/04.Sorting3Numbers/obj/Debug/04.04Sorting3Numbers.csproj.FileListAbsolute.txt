@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.Sorting3Numbers\bin\Debug\04.Sorting3Numbers.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.Sorting3Numbers\bin\Debug\04.Sorting3Numbers.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.Sorting3Numbers\bin\Debug\04.Sorting3Numbers.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.Sorting3Numbers\obj\Debug\04.04Sorting3Numbers.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.Sorting3Numbers\obj\Debug\04.Sorting3Numbers.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.Sorting3Numbers\obj\Debug\04.Sorting3Numbers.pdb

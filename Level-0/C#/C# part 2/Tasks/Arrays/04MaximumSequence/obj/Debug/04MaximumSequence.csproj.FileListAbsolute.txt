@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 2\Tasks\Arrays\04MaximumSequence\bin\Debug\04MaximumSequence.exe.config
-D:\Lessons\C#\C# part 2\Tasks\Arrays\04MaximumSequence\bin\Debug\04MaximumSequence.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\04MaximumSequence\bin\Debug\04MaximumSequence.pdb
-D:\Lessons\C#\C# part 2\Tasks\Arrays\04MaximumSequence\obj\Debug\04MaximumSequence.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 2\Tasks\Arrays\04MaximumSequence\obj\Debug\04MaximumSequence.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\04MaximumSequence\obj\Debug\04MaximumSequence.pdb

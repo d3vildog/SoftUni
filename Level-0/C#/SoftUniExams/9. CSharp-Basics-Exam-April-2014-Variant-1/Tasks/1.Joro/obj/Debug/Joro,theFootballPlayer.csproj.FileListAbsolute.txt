@@ -1,5 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\ConsoleApplication1\obj\Debug\Joro,theFootballPlayer.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-1\Tasks\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

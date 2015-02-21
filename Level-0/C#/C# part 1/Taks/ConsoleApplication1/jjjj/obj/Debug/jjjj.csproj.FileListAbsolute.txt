@@ -1,5 +1,0 @@
-D:\Lessons\C#\ConsoleApplication1\jjjj\bin\Debug\jjjj.exe.config
-D:\Lessons\C#\ConsoleApplication1\jjjj\bin\Debug\jjjj.exe
-D:\Lessons\C#\ConsoleApplication1\jjjj\bin\Debug\jjjj.pdb
-D:\Lessons\C#\ConsoleApplication1\jjjj\obj\Debug\jjjj.exe
-D:\Lessons\C#\ConsoleApplication1\jjjj\obj\Debug\jjjj.pdb

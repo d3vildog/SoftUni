@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\4.CrossingSequences\bin\Debug\4.CrossingSequences.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\4.CrossingSequences\bin\Debug\4.CrossingSequences.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\4.CrossingSequences\obj\Debug\4.CrossingSequences.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\4.CrossingSequences\obj\Debug\4.CrossingSequences.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-4\Tasks\9.CSharp-Basics-Exam-April-2014-V4\4.CrossingSequences\obj\Debug\4.CrossingSequences.pdb

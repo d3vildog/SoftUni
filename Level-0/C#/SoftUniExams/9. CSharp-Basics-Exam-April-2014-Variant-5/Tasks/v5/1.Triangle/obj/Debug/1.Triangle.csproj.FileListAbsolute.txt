@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\1.Triangle\bin\Debug\1.Triangle.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\1.Triangle\bin\Debug\1.Triangle.pdb
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\1.Triangle\obj\Debug\1.Triangle.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\1.Triangle\obj\Debug\1.Triangle.exe
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-5\Tasks\v5\1.Triangle\obj\Debug\1.Triangle.pdb

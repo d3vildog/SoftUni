@@ -1,6 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\CalculatingTrapezoidArea\bin\Debug\CalculatingTrapezoidArea.exe.config
-D:\Lessons\C#\Operator Expression and Statements\CalculatingTrapezoidArea\bin\Debug\CalculatingTrapezoidArea.exe
-D:\Lessons\C#\Operator Expression and Statements\CalculatingTrapezoidArea\bin\Debug\CalculatingTrapezoidArea.pdb
-D:\Lessons\C#\Operator Expression and Statements\CalculatingTrapezoidArea\obj\Debug\CalculatingTrapezoidArea.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\Operator Expression and Statements\CalculatingTrapezoidArea\obj\Debug\CalculatingTrapezoidArea.exe
-D:\Lessons\C#\Operator Expression and Statements\CalculatingTrapezoidArea\obj\Debug\CalculatingTrapezoidArea.pdb

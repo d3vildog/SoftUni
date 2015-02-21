@@ -1,5 +1,0 @@
-D:\Lessons\C#\ConsoleApplication1\SortingMatrix\bin\Debug\SortingMatrix.exe.config
-D:\Lessons\C#\ConsoleApplication1\SortingMatrix\bin\Debug\SortingMatrix.exe
-D:\Lessons\C#\ConsoleApplication1\SortingMatrix\bin\Debug\SortingMatrix.pdb
-D:\Lessons\C#\ConsoleApplication1\SortingMatrix\obj\Debug\SortingMatrix.exe
-D:\Lessons\C#\ConsoleApplication1\SortingMatrix\obj\Debug\SortingMatrix.pdb

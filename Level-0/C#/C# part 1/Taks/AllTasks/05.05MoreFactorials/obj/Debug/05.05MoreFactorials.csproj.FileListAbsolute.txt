@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.05MoreFactorials\bin\Debug\05.05MoreFactorials.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.05MoreFactorials\bin\Debug\05.05MoreFactorials.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.05MoreFactorials\bin\Debug\05.05MoreFactorials.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.05MoreFactorials\obj\Debug\05.05MoreFactorials.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.05MoreFactorials\obj\Debug\05.05MoreFactorials.pdb

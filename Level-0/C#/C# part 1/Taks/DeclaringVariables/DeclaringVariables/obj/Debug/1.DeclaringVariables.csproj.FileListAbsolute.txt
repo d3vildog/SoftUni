@@ -1,7 +1,0 @@
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.CodeAnalysisLog.xml
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.lastcodeanalysissucceeded
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
-D:\Lessons\C#\DeclaringVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

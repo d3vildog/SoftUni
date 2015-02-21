@@ -1,5 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\1.9ApplyingBonusScoreToNumberOfInputs\bin\Debug\1.9ApplyingBonusScoreToNumberOfInputs.exe.config
-D:\Lessons\C#\ConditionalConstructions\1.9ApplyingBonusScoreToNumberOfInputs\bin\Debug\1.9ApplyingBonusScoreToNumberOfInputs.exe
-D:\Lessons\C#\ConditionalConstructions\1.9ApplyingBonusScoreToNumberOfInputs\bin\Debug\1.9ApplyingBonusScoreToNumberOfInputs.pdb
-D:\Lessons\C#\ConditionalConstructions\1.9ApplyingBonusScoreToNumberOfInputs\obj\Debug\1.9ApplyingBonusScoreToNumberOfInputs.exe
-D:\Lessons\C#\ConditionalConstructions\1.9ApplyingBonusScoreToNumberOfInputs\obj\Debug\1.9ApplyingBonusScoreToNumberOfInputs.pdb

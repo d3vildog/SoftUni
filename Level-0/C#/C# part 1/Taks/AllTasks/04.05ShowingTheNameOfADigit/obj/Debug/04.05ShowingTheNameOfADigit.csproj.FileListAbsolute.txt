@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.05ShowingTheNameOfADigit\bin\Debug\04.05ShowingTheNameOfADigit.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.05ShowingTheNameOfADigit\bin\Debug\04.05ShowingTheNameOfADigit.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.05ShowingTheNameOfADigit\bin\Debug\04.05ShowingTheNameOfADigit.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.05ShowingTheNameOfADigit\obj\Debug\04.05ShowingTheNameOfADigit.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\04.05ShowingTheNameOfADigit\obj\Debug\04.05ShowingTheNameOfADigit.pdb

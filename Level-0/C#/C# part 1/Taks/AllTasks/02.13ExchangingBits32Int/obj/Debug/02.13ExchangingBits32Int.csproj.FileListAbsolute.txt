@@ -1,3 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.13ExchangingBits32Int\bin\Debug\02.13ExchangingBits32Int.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.13ExchangingBits32Int\obj\Debug\02.13ExchangingBits32Int.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.13ExchangingBits32Int\obj\Debug\02.13ExchangingBits32Int.pdb

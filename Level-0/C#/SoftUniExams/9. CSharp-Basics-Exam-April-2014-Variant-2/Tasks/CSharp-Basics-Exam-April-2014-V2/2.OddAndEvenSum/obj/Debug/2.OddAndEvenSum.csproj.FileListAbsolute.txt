@@ -1,4 +1,0 @@
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\2.OddAndEvenSum\bin\Debug\2.OddAndEvenSum.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\2.OddAndEvenSum\bin\Debug\2.OddAndEvenSum.pdb
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\2.OddAndEvenSum\obj\Debug\2.OddAndEvenSum.exe
-D:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-2\Tasks\CSharp-Basics-Exam-April-2014-V2\2.OddAndEvenSum\obj\Debug\2.OddAndEvenSum.pdb

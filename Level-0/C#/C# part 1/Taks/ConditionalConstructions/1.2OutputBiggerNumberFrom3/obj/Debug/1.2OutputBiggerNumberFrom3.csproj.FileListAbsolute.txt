@@ -1,5 +1,0 @@
-D:\Lessons\C#\ConditionalConstructions\1.2OutputBiggerNumberFrom3\bin\Debug\1.2OutputBiggerNumberFrom3.exe.config
-D:\Lessons\C#\ConditionalConstructions\1.2OutputBiggerNumberFrom3\bin\Debug\1.2OutputBiggerNumberFrom3.exe
-D:\Lessons\C#\ConditionalConstructions\1.2OutputBiggerNumberFrom3\bin\Debug\1.2OutputBiggerNumberFrom3.pdb
-D:\Lessons\C#\ConditionalConstructions\1.2OutputBiggerNumberFrom3\obj\Debug\1.2OutputBiggerNumberFrom3.exe
-D:\Lessons\C#\ConditionalConstructions\1.2OutputBiggerNumberFrom3\obj\Debug\1.2OutputBiggerNumberFrom3.pdb

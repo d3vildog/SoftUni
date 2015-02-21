@@ -1,5 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\02.Disk\bin\Debug\02.Disk.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\02.Disk\bin\Debug\02.Disk.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\02.Disk\obj\Debug\02.Disk.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\02.Disk\obj\Debug\02.Disk.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\3-Tasks\02.Disk\obj\Debug\02.Disk.pdb

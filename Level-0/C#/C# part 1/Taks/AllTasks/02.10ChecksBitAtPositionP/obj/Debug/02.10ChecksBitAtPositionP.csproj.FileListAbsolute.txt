@@ -1,8 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.10ChecksBitAtPositionP\bin\Debug\02.10ChecksBitAtPositionP.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.10ChecksBitAtPositionP\bin\Debug\02.10ChecksBitAtPositionP.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.10ChecksBitAtPositionP\bin\Debug\02.10ChecksBitAtPositionP.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.10ChecksBitAtPositionP\obj\Debug\02.10ChecksBitAtPositionP.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.10ChecksBitAtPositionP\obj\Debug\02.10ChecksBitAtPositionP.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\01.11ExchangingAandB\bin\Debug\02.10ChecksBitAtPositionP.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\obj\Debug\02.10ChecksBitAtPositionP.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\02.07ChecksForPrimeNumber\obj\Debug\02.10ChecksBitAtPositionP.pdb

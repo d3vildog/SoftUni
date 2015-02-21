@@ -1,1 +1,0 @@
-E:\Lessons\SoftUniExams\9. CSharp-Basics-Exam-April-2014-Variant-8\Task\v8\4.MagicCarNumbers\bin\Debug\4.MagicCarNumbers.exe.config

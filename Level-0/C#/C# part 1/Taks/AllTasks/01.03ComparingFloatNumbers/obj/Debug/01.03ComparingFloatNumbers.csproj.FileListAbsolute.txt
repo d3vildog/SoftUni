@@ -1,6 +1,0 @@
-D:\Lessons\C#\AllTasks\01.03ComparingFloatNumbers\bin\Debug\01.03ComparingFloatNumbers.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\01.03ComparingFloatNumbers\bin\Debug\01.03ComparingFloatNumbers.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\01.03ComparingFloatNumbers\bin\Debug\01.03ComparingFloatNumbers.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\01.03ComparingFloatNumbers\bin\Debug\01.03ComparingFloatNumbers.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\01.03ComparingFloatNumbers\obj\Debug\01.03ComparingFloatNumbers.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\01.03ComparingFloatNumbers\obj\Debug\01.03ComparingFloatNumbers.pdb

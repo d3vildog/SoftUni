@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 2\Tasks\Arrays\02ComparingTwoArrays\bin\Debug\02ComparingTwoArrays.exe.config
-D:\Lessons\C#\C# part 2\Tasks\Arrays\02ComparingTwoArrays\bin\Debug\02ComparingTwoArrays.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\02ComparingTwoArrays\bin\Debug\02ComparingTwoArrays.pdb
-D:\Lessons\C#\C# part 2\Tasks\Arrays\02ComparingTwoArrays\obj\Debug\02ComparingTwoArrays.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\02ComparingTwoArrays\obj\Debug\02ComparingTwoArrays.pdb

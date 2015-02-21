@@ -1,6 +1,0 @@
-D:\Lessons\C#\DeclaringVariables\EmployessRecord\bin\Debug\EmployessRecord.exe.config
-D:\Lessons\C#\DeclaringVariables\EmployessRecord\obj\Debug\EmployessRecord.exe
-D:\Lessons\C#\DeclaringVariables\EmployessRecord\obj\Debug\EmployessRecord.pdb
-D:\Lessons\C#\DeclaringVariables\EmployessRecord\obj\Debug\5.EmployessRecord.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\DeclaringVariables\EmployessRecord\bin\Debug\EmployessRecord.exe
-D:\Lessons\C#\DeclaringVariables\EmployessRecord\bin\Debug\EmployessRecord.pdb

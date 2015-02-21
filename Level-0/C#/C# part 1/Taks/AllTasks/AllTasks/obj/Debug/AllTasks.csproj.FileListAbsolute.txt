@@ -1,1 +1,0 @@
-D:\Lessons\C#\AllTasks\AllTasks\bin\Debug\AllTasks.exe.config

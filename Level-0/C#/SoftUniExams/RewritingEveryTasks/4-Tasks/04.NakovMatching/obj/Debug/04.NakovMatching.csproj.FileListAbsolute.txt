@@ -1,6 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\04.NakovMatching\bin\Debug\04.NakovMatching.exe.config
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\04.NakovMatching\obj\Debug\04.NakovMatching.csprojResolveAssemblyReference.cache
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\04.NakovMatching\bin\Debug\04.NakovMatching.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\04.NakovMatching\bin\Debug\04.NakovMatching.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\04.NakovMatching\obj\Debug\04.NakovMatching.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\4-Tasks\04.NakovMatching\obj\Debug\04.NakovMatching.pdb

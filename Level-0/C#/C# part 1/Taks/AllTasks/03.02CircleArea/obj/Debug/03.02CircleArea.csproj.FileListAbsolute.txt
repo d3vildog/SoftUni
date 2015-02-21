@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.02CircleArea\bin\Debug\03.02CircleArea.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.02CircleArea\bin\Debug\03.02CircleArea.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.02CircleArea\bin\Debug\03.02CircleArea.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.02CircleArea\obj\Debug\03.02CircleArea.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.02CircleArea\obj\Debug\03.02CircleArea.pdb

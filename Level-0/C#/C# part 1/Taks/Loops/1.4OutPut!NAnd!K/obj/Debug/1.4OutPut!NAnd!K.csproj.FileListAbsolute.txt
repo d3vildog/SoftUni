@@ -1,6 +1,0 @@
-D:\Lessons\C#\Loops\1.4OutPut!NAnd!K\bin\Debug\1.4OutPut!NAnd!K.exe.config
-D:\Lessons\C#\Loops\1.4OutPut!NAnd!K\bin\Debug\1.4OutPut!NAnd!K.exe
-D:\Lessons\C#\Loops\1.4OutPut!NAnd!K\bin\Debug\1.4OutPut!NAnd!K.pdb
-D:\Lessons\C#\Loops\1.4OutPut!NAnd!K\obj\Debug\1.4OutPut!NAnd!K.exe
-D:\Lessons\C#\Loops\1.4OutPut!NAnd!K\obj\Debug\1.4OutPut!NAnd!K.pdb
-D:\Lessons\C#\Loops\1.4OutPut!NAnd!K\obj\Debug\1.4OutPut!NAnd!K.csprojResolveAssemblyReference.cache

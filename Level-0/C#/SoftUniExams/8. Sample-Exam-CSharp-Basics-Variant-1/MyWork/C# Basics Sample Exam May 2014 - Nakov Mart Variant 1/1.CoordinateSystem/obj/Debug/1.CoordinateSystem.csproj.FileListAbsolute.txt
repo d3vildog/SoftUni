@@ -1,6 +1,0 @@
-D:\Lessons\SoftUniExams\shitt try\Solution1\1.CoordinateSystem\bin\Debug\1.CoordinateSystem.exe.config
-D:\Lessons\SoftUniExams\shitt try\Solution1\1.CoordinateSystem\bin\Debug\1.CoordinateSystem.exe
-D:\Lessons\SoftUniExams\shitt try\Solution1\1.CoordinateSystem\bin\Debug\1.CoordinateSystem.pdb
-D:\Lessons\SoftUniExams\shitt try\Solution1\1.CoordinateSystem\obj\Debug\1.CoordinateSystem.csprojResolveAssemblyReference.cache
-D:\Lessons\SoftUniExams\shitt try\Solution1\1.CoordinateSystem\obj\Debug\1.CoordinateSystem.exe
-D:\Lessons\SoftUniExams\shitt try\Solution1\1.CoordinateSystem\obj\Debug\1.CoordinateSystem.pdb

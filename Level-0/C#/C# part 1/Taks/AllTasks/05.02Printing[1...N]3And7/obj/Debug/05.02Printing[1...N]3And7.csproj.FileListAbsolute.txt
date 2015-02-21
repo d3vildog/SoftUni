@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.02Printing[1...N]3And7\bin\Debug\_05._02Printing_1._._.N_3And7.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.02Printing[1...N]3And7\bin\Debug\_05._02Printing_1._._.N_3And7.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.02Printing[1...N]3And7\bin\Debug\_05._02Printing_1._._.N_3And7.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.02Printing[1...N]3And7\obj\Debug\_05._02Printing_1._._.N_3And7.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.02Printing[1...N]3And7\obj\Debug\_05._02Printing_1._._.N_3And7.pdb

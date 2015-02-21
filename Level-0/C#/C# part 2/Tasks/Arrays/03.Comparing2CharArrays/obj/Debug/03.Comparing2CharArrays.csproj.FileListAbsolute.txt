@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 2\Tasks\Arrays\03.Comparing2CharArrays\bin\Debug\03.Comparing2CharArrays.exe.config
-D:\Lessons\C#\C# part 2\Tasks\Arrays\03.Comparing2CharArrays\bin\Debug\03.Comparing2CharArrays.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\03.Comparing2CharArrays\bin\Debug\03.Comparing2CharArrays.pdb
-D:\Lessons\C#\C# part 2\Tasks\Arrays\03.Comparing2CharArrays\obj\Debug\03.Comparing2CharArrays.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\03.Comparing2CharArrays\obj\Debug\03.Comparing2CharArrays.pdb

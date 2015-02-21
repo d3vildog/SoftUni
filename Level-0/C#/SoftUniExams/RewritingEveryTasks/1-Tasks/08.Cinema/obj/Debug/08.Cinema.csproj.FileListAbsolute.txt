@@ -1,4 +1,0 @@
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\08.Cinema\bin\Debug\08.Cinema.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\08.Cinema\bin\Debug\08.Cinema.pdb
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\08.Cinema\obj\Debug\08.Cinema.exe
-E:\Lessons\SoftUniExams\RewritingEveryTasks\1-Tasks\08.Cinema\obj\Debug\08.Cinema.pdb

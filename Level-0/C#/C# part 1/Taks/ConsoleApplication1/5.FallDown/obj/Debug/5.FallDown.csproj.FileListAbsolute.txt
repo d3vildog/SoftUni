@@ -1,6 +1,0 @@
-D:\Lessons\C#\ConsoleApplication1\5.FallDown\bin\Debug\5.FallDown.exe.config
-D:\Lessons\C#\ConsoleApplication1\5.FallDown\bin\Debug\5.FallDown.exe
-D:\Lessons\C#\ConsoleApplication1\5.FallDown\bin\Debug\5.FallDown.pdb
-D:\Lessons\C#\ConsoleApplication1\5.FallDown\obj\Debug\5.FallDown.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\ConsoleApplication1\5.FallDown\obj\Debug\5.FallDown.exe
-D:\Lessons\C#\ConsoleApplication1\5.FallDown\obj\Debug\5.FallDown.pdb

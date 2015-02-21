@@ -1,5 +1,0 @@
-D:\Lessons\C#\Console Input Output\1.4ProgramForSomething\bin\Debug\1.4ProgramForSomething.exe.config
-D:\Lessons\C#\Console Input Output\1.4ProgramForSomething\bin\Debug\1.4ProgramForSomething.exe
-D:\Lessons\C#\Console Input Output\1.4ProgramForSomething\bin\Debug\1.4ProgramForSomething.pdb
-D:\Lessons\C#\Console Input Output\1.4ProgramForSomething\obj\Debug\1.4ProgramForSomething.exe
-D:\Lessons\C#\Console Input Output\1.4ProgramForSomething\obj\Debug\1.4ProgramForSomething.pdb

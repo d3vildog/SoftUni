@@ -1,5 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.08GCD\bin\Debug\05.08GCD.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.08GCD\bin\Debug\05.08GCD.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.08GCD\bin\Debug\05.08GCD.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.08GCD\obj\Debug\05.08GCD.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\05.08GCD\obj\Debug\05.08GCD.pdb

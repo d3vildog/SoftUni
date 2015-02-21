@@ -1,5 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\DividingInt5And7\bin\Debug\DividingInt5And7.exe.config
-D:\Lessons\C#\Operator Expression and Statements\DividingInt5And7\bin\Debug\DividingInt5And7.exe
-D:\Lessons\C#\Operator Expression and Statements\DividingInt5And7\bin\Debug\DividingInt5And7.pdb
-D:\Lessons\C#\Operator Expression and Statements\DividingInt5And7\obj\Debug\DividingInt5And7.exe
-D:\Lessons\C#\Operator Expression and Statements\DividingInt5And7\obj\Debug\DividingInt5And7.pdb

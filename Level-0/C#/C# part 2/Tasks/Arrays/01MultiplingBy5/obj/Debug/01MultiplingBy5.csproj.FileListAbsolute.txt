@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 2\Tasks\Arrays\01MultiplingBy5\bin\Debug\01MultiplingBy5.exe.config
-D:\Lessons\C#\C# part 2\Tasks\Arrays\01MultiplingBy5\bin\Debug\01MultiplingBy5.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\01MultiplingBy5\bin\Debug\01MultiplingBy5.pdb
-D:\Lessons\C#\C# part 2\Tasks\Arrays\01MultiplingBy5\obj\Debug\01MultiplingBy5.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 2\Tasks\Arrays\01MultiplingBy5\obj\Debug\01MultiplingBy5.exe
-D:\Lessons\C#\C# part 2\Tasks\Arrays\01MultiplingBy5\obj\Debug\01MultiplingBy5.pdb

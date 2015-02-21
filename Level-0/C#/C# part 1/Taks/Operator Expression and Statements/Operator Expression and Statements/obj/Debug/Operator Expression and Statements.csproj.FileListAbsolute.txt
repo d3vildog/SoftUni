@@ -1,1 +1,0 @@
-D:\Lessons\C#\Operator Expression and Statements\Operator Expression and Statements\bin\Debug\Operator Expression and Statements.exe.config

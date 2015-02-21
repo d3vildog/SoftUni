@@ -1,6 +1,0 @@
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.04ExistingPBetweenNumbers\bin\Debug\03.04ExistingPBetweenNumbers.exe.config
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.04ExistingPBetweenNumbers\bin\Debug\03.04ExistingPBetweenNumbers.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.04ExistingPBetweenNumbers\bin\Debug\03.04ExistingPBetweenNumbers.pdb
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.04ExistingPBetweenNumbers\obj\Debug\03.04ExistingPBetweenNumbers.csprojResolveAssemblyReference.cache
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.04ExistingPBetweenNumbers\obj\Debug\03.04ExistingPBetweenNumbers.exe
-D:\Lessons\C#\C# part 1\Taks\AllTasks\03.04ExistingPBetweenNumbers\obj\Debug\03.04ExistingPBetweenNumbers.pdb
