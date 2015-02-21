@@ -1,0 +1,155 @@
+﻿body, div, header, a, img, p, nav, ul, li, main, section, article, h1, footer {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-size: 16px;
+    font-family: Tahoma, sans-serif;
+
+    div.wrapper {
+
+        div.head {
+            background-color: #EEEEEE;
+            & > header {
+                height: 120px;
+                padding: 30px 0;
+                background-color: #EEEEEE;
+                background-size: fluid;
+                width: 920px;
+                margin: 0 auto;
+
+                div.logo-pic {
+                    float: left;
+                    display: inline-block;
+                }
+
+                nav {
+                    display: inline-block;
+                    margin-left: 50px;
+                    float: left;
+                    height: 100%;
+
+                    ul {
+                        li {
+                            margin: 0 20px;
+                            padding: 20px 10px;
+                            list-style: none;
+                            display: inline-block;
+
+                            & a {
+                                padding: 18px 15px;
+                                color: #818181;
+                                font-weight: bold;
+                                border-radius: 10px;
+
+                                &:hover {
+                                    background-color: #CAD1D1;
+                                }
+                            }
+
+                            &:first-of-type a {
+                                color: #F6A100;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        main {
+            width: 840px;
+            margin: 0 auto;
+            height: 370px;
+
+            section {
+                header {
+                    font-size: 1em;
+                    h1 {
+                        color: #3E3E3E;
+                        margin-top: 30px;
+                    }
+                }
+
+                article {
+                    float: left;
+                    display: inline-block;
+                    width: 420px;
+                    height: 200px;
+                    margin-right: 20px;
+
+                    p {
+                        font-size: 17px;
+                        font-weight: normal;
+                        color:#585858;
+                        margin: 30px 0;
+                    }
+                }
+
+                article:nth-of-type(2) {
+                    margin-right: 0;
+                    width: 400px;
+                }
+            }
+        }
+
+        div.foot {
+            height: 120px;
+            background-color: #EEEEEE;
+            padding:  50px 0;
+            footer {
+                background-color: #EEEEEE;
+                width: 920px;
+                margin: 0 auto;
+
+                p {
+                    display: inline-block;
+                }
+
+              #connect a {
+                    background: url(../images/icons.png) no-repeat;
+                    display: inline-block;
+                    height: 30px;
+                    width: 30px;
+                    margin: 0 10px;
+                }
+
+                #connect a.googleplus {
+	                background-position: 0 -40px;
+                }
+                #connect a.twitter {
+	                background-position: 0 -80px;
+                }
+                #connect a.tumbler {
+	                background-position: 0 -120px;
+                }
+                #connect a.facebook:hover {
+	                background-position: -40px 0;
+                }
+                #connect a.googleplus:hover {
+	                background-position: -40px -40px;
+                }
+                #connect a.twitter:hover {
+	                background-position: -40px -80px;
+                }
+                #connect a.tumbler:hover {
+	                background-position: -40px -120px;
+                }
+
+
+             #connect {
+	            float: right;
+	            display: inline-block;
+	            margin-right: 30px;
+            }
+            }
+        }
+    }
+}

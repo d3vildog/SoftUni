@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\test-1\test-1\bin\test-1.dll.config
+C:\Users\Dani\Desktop\test-1\test-1\bin\test-1.dll
+C:\Users\Dani\Desktop\test-1\test-1\bin\test-1.pdb
+C:\Users\Dani\Desktop\test-1\test-1\obj\Debug\test-1.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\test-1\test-1\obj\Debug\test-1.dll
+C:\Users\Dani\Desktop\test-1\test-1\obj\Debug\test-1.pdb

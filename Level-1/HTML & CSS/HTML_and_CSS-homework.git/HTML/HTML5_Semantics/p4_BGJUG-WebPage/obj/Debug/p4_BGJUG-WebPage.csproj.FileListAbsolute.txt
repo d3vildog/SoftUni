@@ -1,0 +1,5 @@
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p4_BGJUG-WebPage\bin\p4_BGJUG-WebPage.dll.config
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p4_BGJUG-WebPage\bin\p4_BGJUG-WebPage.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p4_BGJUG-WebPage\bin\p4_BGJUG-WebPage.pdb
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p4_BGJUG-WebPage\obj\Debug\p4_BGJUG-WebPage.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p4_BGJUG-WebPage\obj\Debug\p4_BGJUG-WebPage.pdb

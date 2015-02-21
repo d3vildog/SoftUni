@@ -1,0 +1,12 @@
+D:\Lessons\HTML & CSS\HTML-CSS-exam-\trunk\test-4\test-4\problem1-Books\bin\problem1-Books.dll.config
+D:\Lessons\HTML & CSS\HTML-CSS-exam-\trunk\test-4\test-4\problem1-Books\bin\problem1-Books.dll
+D:\Lessons\HTML & CSS\HTML-CSS-exam-\trunk\test-4\test-4\problem1-Books\bin\problem1-Books.pdb
+D:\Lessons\HTML & CSS\HTML-CSS-exam-\trunk\test-4\test-4\problem1-Books\obj\Debug\problem1-Books.csprojResolveAssemblyReference.cache
+D:\Lessons\HTML & CSS\HTML-CSS-exam-\trunk\test-4\test-4\problem1-Books\obj\Debug\problem1-Books.dll
+D:\Lessons\HTML & CSS\HTML-CSS-exam-\trunk\test-4\test-4\problem1-Books\obj\Debug\problem1-Books.pdb
+C:\Users\Dani\Desktop\test-4\problem1-Books\bin\problem1-Books.dll.config
+C:\Users\Dani\Desktop\test-4\problem1-Books\bin\problem1-Books.dll
+C:\Users\Dani\Desktop\test-4\problem1-Books\bin\problem1-Books.pdb
+C:\Users\Dani\Desktop\test-4\problem1-Books\obj\Debug\problem1-Books.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\test-4\problem1-Books\obj\Debug\problem1-Books.dll
+C:\Users\Dani\Desktop\test-4\problem1-Books\obj\Debug\problem1-Books.pdb

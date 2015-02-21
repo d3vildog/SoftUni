@@ -1,0 +1,43 @@
+﻿body, section, div, article, header, h1, p, img {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+/*40min*/
+body {
+  font-size: 10.88px;
+  font-family: Tahoma, Geneva, sans-serif; }
+  body section {
+    margin: 5px;
+    width: 330px; }
+    body section article {
+      line-height: 14px;
+      margin-top: -1px; }
+      body section article .pic {
+        float: left; }
+        body section article .pic img {
+          margin-right: 5px;
+          padding: 1px;
+          border: 1px solid black; }
+      body section article .head header h1:hover {
+        cursor: pointer;
+        text-decoration: underline;
+        color: #4E5860; }
+      body section article .head header time {
+        color: #ABA196;
+        font-size: 10px;
+        font-weight: bold; }
+      body section article .head p {
+        margin: 3px;
+        font-size: 12px; }
+    body section hr {
+      margin-left: 0;
+      margin-top: 16px;
+      border: 0;
+      border-bottom: 1px dashed #D4D4D4;
+      height: 0;
+      width: 82%; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p1_Refactor-HTML", "p1_Refactor-HTML\p1_Refactor-HTML.csproj", "{58A9A1E8-386A-41B4-9246-1C4D99A5B2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2_Kent's-Media-Profile", "p2_Kent's-Media-Profile\p2_Kent's-Media-Profile.csproj", "{997EBC3D-9FD2-481D-A21C-9A6C6EE07E26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p3_Magic-Car-Gallery", "p3_Magic-Car-Gallery\p3_Magic-Car-Gallery.csproj", "{BF720ED4-89D6-4FB4-8058-3B563806BBBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p4_BGJUG-WebPage", "p4_BGJUG-WebPage\p4_BGJUG-WebPage.csproj", "{CC7567B4-CA1A-43D7-ADFC-5C0F81445304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p5_JavaScript-Worship", "p5_JavaScript-Worship\p5_JavaScript-Worship.csproj", "{0694BB74-46E7-432C-8B0B-51D343C59E75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A9A1E8-386A-41B4-9246-1C4D99A5B2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A9A1E8-386A-41B4-9246-1C4D99A5B2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A9A1E8-386A-41B4-9246-1C4D99A5B2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A9A1E8-386A-41B4-9246-1C4D99A5B2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997EBC3D-9FD2-481D-A21C-9A6C6EE07E26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997EBC3D-9FD2-481D-A21C-9A6C6EE07E26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997EBC3D-9FD2-481D-A21C-9A6C6EE07E26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997EBC3D-9FD2-481D-A21C-9A6C6EE07E26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF720ED4-89D6-4FB4-8058-3B563806BBBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF720ED4-89D6-4FB4-8058-3B563806BBBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF720ED4-89D6-4FB4-8058-3B563806BBBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF720ED4-89D6-4FB4-8058-3B563806BBBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC7567B4-CA1A-43D7-ADFC-5C0F81445304}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7567B4-CA1A-43D7-ADFC-5C0F81445304}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7567B4-CA1A-43D7-ADFC-5C0F81445304}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7567B4-CA1A-43D7-ADFC-5C0F81445304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0694BB74-46E7-432C-8B0B-51D343C59E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0694BB74-46E7-432C-8B0B-51D343C59E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0694BB74-46E7-432C-8B0B-51D343C59E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0694BB74-46E7-432C-8B0B-51D343C59E75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

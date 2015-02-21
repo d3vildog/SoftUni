@@ -1,0 +1,10 @@
+{
+  "name": "p01_Keep_The_Change",
+  "version": "0.0.0",
+  "description": "p01_Keep-The-Change",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "p2_The_Numbers",
+  "version": "0.0.0",
+  "description": "p2_The-Numbers",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

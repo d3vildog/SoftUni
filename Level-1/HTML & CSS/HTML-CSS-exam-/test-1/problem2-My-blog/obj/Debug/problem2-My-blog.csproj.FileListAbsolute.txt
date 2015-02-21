@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\test-1\problem2-My-blog\bin\problem2-My-blog.dll.config
+C:\Users\Dani\Desktop\test-1\problem2-My-blog\bin\problem2-My-blog.dll
+C:\Users\Dani\Desktop\test-1\problem2-My-blog\bin\problem2-My-blog.pdb
+C:\Users\Dani\Desktop\test-1\problem2-My-blog\obj\Debug\problem2-My-blog.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\test-1\problem2-My-blog\obj\Debug\problem2-My-blog.dll
+C:\Users\Dani\Desktop\test-1\problem2-My-blog\obj\Debug\problem2-My-blog.pdb

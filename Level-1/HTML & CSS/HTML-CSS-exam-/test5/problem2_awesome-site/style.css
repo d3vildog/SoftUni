@@ -1,0 +1,120 @@
+﻿/* latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito-Bold'), url(http://fonts.gstatic.com/s/nunito/v7/TttUCfJ272GBgSKaOaD7KhJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U0 -0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+@font-face {
+  font-family: 'Fairview';
+  font-style: normal;
+  font-weight: 700;
+  src: url(Fairview_Regular.otf);
+  unicode-range: U0 -0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+a {
+  text-decoration: none; }
+
+.mid a {
+  color: white !important;
+  background-color: #FF6347;
+  padding: 7px; }
+
+th, td {
+  padding: 0 30px 15px 0; }
+
+body {
+  font-size: 15px; }
+  body div.wrapper {
+    width: 100%; }
+    body div.wrapper header {
+      font-family: Fairview, Helvetica, sans-serif;
+      text-align: center;
+      width: 100%; }
+      body div.wrapper header h1 {
+        background-color: #E05E43; }
+        body div.wrapper header h1 a {
+          color: white;
+          font-size: 9em;
+          font-weight: bold; }
+          body div.wrapper header h1 a:hover {
+            color: black; }
+      body div.wrapper header nav {
+        margin-top: 10px; }
+        body div.wrapper header nav ul li {
+          margin: 5px;
+          font-size: 2em;
+          display: inline-block; }
+          body div.wrapper header nav ul li a {
+            color: #595959; }
+            body div.wrapper header nav ul li a:hover {
+              color: black;
+              font-weight: bold; }
+    body div.wrapper main {
+      font-family: Nunito, Arial, sans-serif;
+      width: 670px;
+      margin: 50px auto; }
+      body div.wrapper main header h2 {
+        font-family: Nunito, Arial, sans-serif;
+        color: black;
+        text-align: left;
+        font-weight: bold;
+        font-size: 2em; }
+      body div.wrapper main table thead th {
+        font-size: 1.4em;
+        text-align: left;
+        border-bottom: 1px solid #E5E5E5; }
+      body div.wrapper main table tbody {
+        color: #626262;
+        font-size: 1.3em; }
+        body div.wrapper main table tbody a {
+          color: #C6281D;
+          border-bottom: 1px dotted #FF7860; }
+          body div.wrapper main table tbody a:hover {
+            color: black;
+            border-bottom: 1px solid #FF7860; }
+    body div.wrapper footer {
+      font-family: Nunito, Arial, sans-serif;
+      text-align: center;
+      background-color: #222222;
+      padding: 20px 0; }
+      body div.wrapper footer nav {
+        margin: 0 auto;
+        width: 90%;
+        height: 50px;
+        padding-top: 12px;
+        padding-bottom: 20px;
+        border-bottom: 1px solid #3F3F3F;
+        margin-bottom: 30px; }
+        body div.wrapper footer nav ul {
+          height: 100%;
+          padding-bottom: 20px; }
+          body div.wrapper footer nav ul li {
+            display: inline-block;
+            padding-bottom: 20px;
+            height: 100%; }
+            body div.wrapper footer nav ul li a {
+              padding: 10px 10px;
+              text-decoration: none;
+              font-size: 1.3em;
+              font-weight: bold;
+              color: #ABABAD; }
+              body div.wrapper footer nav ul li a:hover {
+                background-color: #AAAAAA;
+                font-weight: bold;
+                color: #AA1F20; }
+      body div.wrapper footer div a {
+        display: block;
+        color: gray; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\test-3\problem1-Mirrors\bin\problem1-Mirrors.dll.config
+C:\Users\Dani\Desktop\test-3\problem1-Mirrors\bin\problem1-Mirrors.dll
+C:\Users\Dani\Desktop\test-3\problem1-Mirrors\bin\problem1-Mirrors.pdb
+C:\Users\Dani\Desktop\test-3\problem1-Mirrors\obj\Debug\problem1-Mirrors.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\test-3\problem1-Mirrors\obj\Debug\problem1-Mirrors.dll
+C:\Users\Dani\Desktop\test-3\problem1-Mirrors\obj\Debug\problem1-Mirrors.pdb

@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url("dots.jpg");
+}
+
+section {
+    display: inline-block;
+    width: 1000px;
+    height: 200px;
+    margin: 20px;
+}
+
+body > header {
+    background: linear-gradient(to right, red 33.3%, green 33.3%, green 66.7%, blue 66.7%);
+    color: yellow;
+    width: 100%;
+    height: 65px;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    vertical-align: top;
+    padding-top: 0;
+}
+
+aside nav header {
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+aside {
+    background-color: rgba(230, 230, 230, 0.9);
+    width: 210px;
+    height: 180px;
+    border-radius: 25px;
+    padding: 20px;
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 15px;
+    vertical-align: top;
+}
+
+aside nav ul li > a {
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+    aside nav ul li > a:visited {
+        text-decoration: none;
+        color: gray;
+    }
+
+    aside nav ul li > a:active {
+        text-decoration: none;
+        color: black;
+    }
+
+    aside nav ul li:nth-child(1):hover {
+        background-color: red;
+        border-radius: 20px;
+    }
+
+    aside nav ul li:nth-child(2):hover {
+        background-color: orange;
+        border-radius: 20px;
+    }
+
+    aside nav ul li:nth-child(3):hover {
+        background-color: yellow;
+        border-radius: 20px;
+    }
+
+    aside nav ul li:nth-child(4):hover {
+        background-color: #008000;
+        border-radius: 20px;
+    }
+
+    aside nav ul li:nth-child(5):hover {
+        background-color: blue;
+        border-radius: 20px;
+    }
+
+    aside nav ul li:nth-child(6):hover {
+        background-color: purple;
+        border-radius: 20px;
+    }
+
+aside nav ul li {
+    list-style-type: none;
+    background-image:  url("bullet.png");
+    background-repeat: no-repeat;
+    background-position: 3px 0px;
+    background-size: 14px;
+    padding-left: 30px;
+    margin-top: 5px;
+}
+
+article {
+    background-color: rgba(230, 230, 230, 0.9);
+    border-radius: 25px;
+    margin: 20px;
+    padding: 15px;
+    width: 1000px;
+    height: 230px;
+}
+
+section > article {
+    margin-top: 0px;
+}
+
+article:nth-child(1) header {
+    background-color: red;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+article:nth-child(2) header{
+    background-color: orange;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    color: black;
+}
+
+article:nth-child(3) header{
+     background-color: yellow;
+     font-size: 35px;
+     border-radius: 10px;
+     padding: 10px;
+     color: black;
+ }
+
+article:nth-child(4) header{
+    background-color: #008000;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+article:nth-child(5) header{
+    background-color: blue;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+article:nth-child(6) header{
+    background-color: purple;
+    font-size: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+}
+
+    article:nth-child(6) span:first-of-type{
+        color: rgb(22, 15, 152);
+    }
+
+    article:nth-child(6) span:first-of-type:before{
+        content: '\"';
+    }
+
+    article:nth-child(6) span:first-of-type:after{
+        content: '\"';
+    }
+
+div {
+    margin-top: 5px;
+    font-family: Tahoma;
+    font-size: 13px;
+    font-style: italic;
+}
+
+div:first-letter {
+    font-size: 60px;
+}
+
+section article footer > a {
+    color: black;
+    font-size: 18px;
+}
+
+    section article footer > a:visited {
+        color: gray;
+    }
+
+    section article footer > a:active {
+        color: black;
+    }

@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+section {
+    width: 550px;
+    background-color: #EEEEEE;
+    height: 300px;
+    position: absolute;
+    font-family: Tahoma;
+}
+
+#log {
+    background-color: #234465;
+    display: inline-block;
+    color: white;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    top: -65px;
+    padding: 5px;
+}
+
+#reg {
+    display: inline-block;
+    width: 250px;
+    height: 200px;
+    position: relative;
+    margin-left: 15px;
+}
+
+h3 {
+    margin-top: 4px;
+    font-size: 12px;
+    position: relative;
+    left: 8px;
+}
+
+    h3 span {
+        font-size: 12px;
+    }
+    
+h2 {
+    color: #234465;
+    margin: 8px
+}
+
+section > span {
+    font-size: 12px;
+    display: block;
+    margin: 15px 8px;
+    color: #5F5F5F;
+}
+
+input {
+    display: block;
+    margin: 8px;
+    width: 230px;
+    text-indent: 5px;
+    padding: 5px;
+}
+
+    ::-webkit-input-placeholder {
+        font-size: 12px;
+    }
+
+    :-moz-placeholder { /* Firefox 18- */
+        font-size: 12px;
+    }
+
+    ::-moz-placeholder {  /* Firefox 19+ */
+        font-size: 12px;
+    }
+
+    :-ms-input-placeholder {
+        font-size: 12px;
+    }
+
+#reg-button {
+    width: 50%;
+    background-color: #EEEEEE;
+    border: 2px solid;
+    color: #234465;
+    border-color: #234465;
+    float: right;
+    margin-top: 4px;
+}
+
+    #reg-button:hover {
+        color: white;
+        background-color: #234465;
+        transition: all .3s linear;
+    }
+
+#register h3{
+    color: #234465;
+    left: 8px;
+    position: relative;
+}
+
+#register h3 span{
+    color: #666666;
+}
+
+input[type="checkbox"] {
+    display: inline-block;
+    width: 20px;
+    margin-right: 0px;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+input[type='submit'] {
+    cursor: pointer;
+}
+
+#log-button {
+    color: white;
+    background-color: #234465;
+    border: 2px solid;
+    border-color: #FF9C00;
+    width: 90%;
+}
+
+    #log-button:hover {
+        background-color: #FF9C00;
+        transition: all .5s ease;
+    }
+
+label {
+    cursor: pointer;
+}
+
+label[for="rem-me"] {
+    font-size: 10px;
+    position: relative;
+    bottom: 6px;
+    right: 6px;
+}
+
+#for-rem {
+    display: inline-block;
+    float: left;
+}
+
+#for-log {
+    display: inline-block;
+    float: right;
+    width: 50%;
+    position: relative;
+}
+
+a {
+    display: block;
+    color: white;
+    font-size: 10px;
+    position: relative;
+    left: 36px;
+    bottom: 3px;
+}

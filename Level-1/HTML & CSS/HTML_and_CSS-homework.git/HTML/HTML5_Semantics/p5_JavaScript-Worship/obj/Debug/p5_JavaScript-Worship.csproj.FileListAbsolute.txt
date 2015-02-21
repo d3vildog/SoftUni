@@ -1,0 +1,5 @@
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p5_JavaScript-Worship\bin\p5_JavaScript-Worship.dll.config
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p5_JavaScript-Worship\bin\p5_JavaScript-Worship.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p5_JavaScript-Worship\bin\p5_JavaScript-Worship.pdb
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p5_JavaScript-Worship\obj\Debug\p5_JavaScript-Worship.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p5_JavaScript-Worship\obj\Debug\p5_JavaScript-Worship.pdb

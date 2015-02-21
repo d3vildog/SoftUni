@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\test2\problem1-BBC_News\bin\problem1-BBC_News.dll.config
+C:\Users\Dani\Desktop\test2\problem1-BBC_News\bin\problem1-BBC_News.dll
+C:\Users\Dani\Desktop\test2\problem1-BBC_News\bin\problem1-BBC_News.pdb
+C:\Users\Dani\Desktop\test2\problem1-BBC_News\obj\Debug\problem1-BBC_News.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\test2\problem1-BBC_News\obj\Debug\problem1-BBC_News.dll
+C:\Users\Dani\Desktop\test2\problem1-BBC_News\obj\Debug\problem1-BBC_News.pdb

@@ -1,0 +1,10 @@
+{
+  "name": "p08_Simple_Calculations",
+  "version": "0.0.0",
+  "description": "p08_Simple-Calculations",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

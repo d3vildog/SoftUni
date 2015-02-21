@@ -1,0 +1,10 @@
+{
+  "name": "p04_Circle_area",
+  "version": "0.0.0",
+  "description": "p04_Circle-area",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

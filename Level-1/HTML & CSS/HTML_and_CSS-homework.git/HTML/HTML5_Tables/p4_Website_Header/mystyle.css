@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*table, td {*/
+    /*border: 1px solid black;*/
+/*}*/
+
+table {
+    width: 100%;
+    background-color: #234465;
+    height: 100px;
+    padding-top: 10px;
+}
+
+li {
+    font-weight: 600;
+    display: inline-table;
+    color: white;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ul {
+    float:  right;
+    margin-right: 100px;
+    list-style-image: none;
+}
+
+table tbody tr ul.bottom-list li {
+    padding: 7px 5px;
+    border-radius: 7px;
+}
+
+    table tbody tr ul.bottom-list li:hover {
+        background-color: #4CA0DB;
+    }
+
+    ::-webkit-input-placeholder {
+        text-indent: 6px;
+    }
+
+    :-moz-placeholder {
+        text-indent: 6px;
+    }
+
+    :-ms-input-placeholder {
+        text-indent: 6px;
+    }
+
+input[type="submit"]{
+    background-image: url("https://softuni.bg/Content/design/magn-glass-icon17.png");
+    background-repeat: no-repeat;
+    width: 27px;
+    height: 29px;
+    background-position: center;
+    background-color: white;
+    margin: -5px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-left-color: gray;
+}
+
+input[type="text"]{
+    height: 25px;
+    outline: none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 200px;
+    text-indent: 6px;
+}
+
+table tbody tr td:first-child {
+    width: 300px;
+}
+
+img {
+    float: right;
+    margin-top: -10px;
+}
+
+a{
+    text-decoration: none;
+    cursor: pointer;
+    color: white;
+}
+
+span {
+    font-size: 13px;
+    position: relative;
+    left: 275px;
+    bottom: 8px;
+}
+
+strong {
+    display: inline-block;
+    margin-left: 4px;
+    border-top: 4px solid;
+    vertical-align: middle;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+
+.top-list li:hover {
+    text-decoration: underline;
+}
+
+header table tbody tr td:nth-child(2) ul li:nth-child(2) {
+    margin-right: -10px;
+}
+
+#bell {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background-image: url("https://softuni.bg/Content/design/notificationsIcon.png");
+    position: relative;
+    left: 3px;
+    top: 5px;
+}

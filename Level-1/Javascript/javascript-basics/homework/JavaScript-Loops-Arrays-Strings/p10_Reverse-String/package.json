@@ -1,0 +1,10 @@
+{
+  "name": "p10_Reverse_String",
+  "version": "0.0.0",
+  "description": "p10_Reverse-String",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

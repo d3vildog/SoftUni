@@ -1,0 +1,10 @@
+{
+  "name": "p02_Tetris_Firgures",
+  "version": "0.0.0",
+  "description": "p02_Tetris-Firgures",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

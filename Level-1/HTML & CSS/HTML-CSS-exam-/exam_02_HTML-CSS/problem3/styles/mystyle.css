@@ -1,0 +1,127 @@
+﻿body, section, header, h1, p, form, h3, input {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+::-webkit-input-placeholder {
+  color: #897F88; }
+
+:-moz-placeholder {
+  color: #897F88; }
+
+::-moz-placeholder {
+  color: #897F88; }
+
+:-ms-input-placeholder {
+  color: #897F88; }
+
+body {
+  font-family: Tahoma, Helvetica, sans-serif;
+  padding: 20px;
+  font-size: 13px;
+  background-color: #EEEEEE; }
+  body > section {
+    box-shadow: 0px 0px 20px #D4D4D4;
+    border-radius: 15px;
+    height: 490px;
+    background-color: white;
+    padding: 20px;
+    width: 800px;
+    margin: 0 auto; }
+    body > section > header h1 {
+      font-weight: normal;
+      color: #333C3B;
+      text-align: center;
+      font-size: 24px;
+      margin: 15px 0; }
+    body > section > header p {
+      color: #333C3B;
+      text-align: center; }
+    body > section section.forms {
+      height: 365px;
+      padding: 25px 0;
+      margin: 0 auto;
+      width: 600px;
+      border-top: 1px solid #CCCCCC;
+      margin-top: 15px; }
+      body > section section.forms input {
+        outline: none;
+        display: block;
+        width: 270px;
+        padding: 10px;
+        border-radius: 7px;
+        border: 1px solid #CCCCCC;
+        margin: 12px 0;
+        padding-right: 40px;
+        padding-left: 13px; }
+      body > section section.forms input[type="checkbox"] {
+        width: auto;
+        display: inline-block;
+        margin: 0; }
+      body > section section.forms input[type="text"], body > section section.forms input[type="email"] {
+        background-image: url(../recources/ok.png);
+        background-repeat: no-repeat;
+        background-position: 237px; }
+      body > section section.forms input[type="password"] {
+        background-image: url(../recources/no.png);
+        background-repeat: no-repeat;
+        background-position: 237px; }
+      body > section section.forms label {
+        color: #897F88;
+        font-size: 0.9em; }
+      body > section section.forms form {
+        float: left;
+        width: 275px;
+        display: inline-block; }
+        body > section section.forms form h3 {
+          color: #333C3B;
+          font-weight: bolder;
+          font-size: 1.1em;
+          display: inline-block; }
+        body > section section.forms form a {
+          text-decoration: none;
+          color: #FF6A61;
+          font-weight: bold;
+          font-size: 0.9em;
+          margin: 15px 0;
+          display: block; }
+          body > section section.forms form a:hover {
+            text-decoration: underline; }
+        body > section section.forms form::after {
+          content: ".";
+          visibility: hidden;
+          display: block;
+          height: 0;
+          clear: both; }
+        body > section section.forms form.left {
+          margin-right: 50px; }
+          body > section section.forms form.left input[type="submit"] {
+            width: 165px;
+            font-weight: bold;
+            background-color: #F0F0F0;
+            border: none;
+            text-align: center;
+            padding: 12px 0;
+            color: black;
+            font-size: 1.1em;
+            box-shadow: 0px 1px 5px #888888; }
+            body > section section.forms form.left input[type="submit"]:hover {
+              background-color: #AFDF67;
+              cursor: pointer; }
+        body > section section.forms form.right input[type="submit"] {
+          width: 100px;
+          font-weight: bold;
+          background-color: #F0F0F0;
+          border: none;
+          text-align: center;
+          padding: 12px 0;
+          color: black;
+          font-size: 1.1em;
+          box-shadow: 0px 1px 5px #888888; }
+          body > section section.forms form.right input[type="submit"]:hover {
+            background-color: #AFDF67;
+            cursor: pointer; }
+
+/*# sourceMappingURL=mystyle.css.map */

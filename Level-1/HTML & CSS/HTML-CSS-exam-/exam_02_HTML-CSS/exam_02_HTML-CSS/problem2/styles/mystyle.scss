@@ -1,0 +1,143 @@
+﻿body, div, header, h1, main, h2, h3, aside, ul, li, img, section, article, a, p, footer, span {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: Open-sans, sans-serif;
+    font-size: 16px;
+    div.wrapper {
+        &>header{
+            background-image: url(../recources/bgr.jpg);
+            div.header-content {
+                margin: 0 auto;
+                width: 920px;
+                height: 350px;
+                background-image: url(../recources/got-dolls.jpg);
+
+                div.faq {
+                    position: absolute;
+                    padding: 15px;
+                    width: 400x;
+                    color: white;
+                    font-style: italic;
+                    vertical-align: bottom;
+                    background-color: rgba(92, 97, 97, 0.9);
+                    top: 220px;
+                    right: 339px;
+
+                    h1 {
+                        font-size: 70px;
+                        font-family: LobsteR;
+                    }
+                }
+            }
+        }
+
+        main {
+            background-color: #F3F3F5;
+
+            div.main-content {
+                width: 920px;
+                margin: 0 auto;
+                padding: 15px 0;
+
+                aside {
+                    display: inline-block;
+                    margin-right: 20px;
+                    float: left;
+
+                    ul {
+                        background-color: #4E5359;
+                        height: 160px;
+                        margin-bottom: 20px;
+
+                        li {
+                            border-top: 1px solid #555B61;
+                            height: 33.33%;
+                            list-style: none;
+                            border-left: 5px solid #4E5359;
+                            
+                            &:first-of-type {
+                                border-left: 5px solid #22DBA5;
+                            }
+
+                            &:hover {
+                                border-left: 5px solid #2F6D6C;
+                                background-color: #5D6167;
+                            }
+
+                            a {
+                                font-weight: bolder;
+                                padding: 18px;
+                                display: block;
+                                width: 100%;
+                                height: 100%;
+                                color: #E8FFFF;
+                            }
+                        }
+                    }
+
+                    img {
+                        width: 200px;
+                        opacity: 0.8;
+                    }
+                }
+
+                section {
+                    display: inline-block;
+                    width: 680px;
+
+                    &>article {
+                        border-top: 3px solid #BBBABF;
+                        padding: 20px;
+                        background-color: white;
+                        margin-bottom: 20px;
+
+                        header {
+                            h2 {
+                                font-size: .9em;
+                                color: #BBBAC0;
+                                margin: 10px 0;
+                            }
+                        }
+
+                        article {
+                            p {
+                                color: #919399;
+                                font-size: .9em;
+                            }
+                        }
+
+                        h3 {
+                            color: #0000EE;
+                            margin: 6px 0;
+                        }
+                    }
+                }
+            }
+        }
+
+        footer {
+            background-color: #C9C7CC;
+            height: 140px;
+
+            div.footer-content {
+                width: 920px;
+                margin: 0 auto;
+                padding-top: 30px;
+
+                span {
+                    color: #4E5364;
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    font-family:Tahoma, Arial,sans-serif;
+    width: 440px;
+    background-color: #FFC0CB;
+    box-sizing: border-box;
+    outline: none;
+    padding: 10px;
+    clear: both;
+}
+
+div {
+    display: inline-block;
+    margin: 1px;
+}
+
+input, select {
+    display: block;
+    width: 200px;
+    padding: 1px;
+}
+
+    input[type="time"] {
+        display: inline-block;
+    }
+
+    input[type='number'] {
+        width: 63.5px;
+        display: inline-block;
+        font-weight: bold;
+    }
+
+    input[type="time"] {
+        width: 48.7%;
+    }
+
+select {
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    font-size: 12px;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+input[type="checkbox"] {
+    width: auto;
+    display: inline-block;
+}
+
+    label[for="directs"] {
+        display: inline-block;
+        margin-top: 0px;
+    }
+
+    label[for='12']{
+        display: inline-block;
+        margin-top: 8px;
+    }
+
+.little {
+    display: inline-block;
+    margin-left:47px;
+    margin-top: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+}
+
+input[type='submit'] {
+    height: 30px;
+    float: right;
+    clear: both;
+    position: relative;
+    right: 8px;
+    font-weight: bold;
+}
+
+#left, #right {
+    width: 201px;
+    height: 220px;
+}

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p01-Numbers", "second-problems\p01-Numbers.njsproj", "{A0922A11-A2B3-45D0-9966-3127E93EE914}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p02_Tetris-Firgures", "p02_Tetris-Firgures\p02_Tetris-Firgures.njsproj", "{9AF3BFE6-0F1C-4EC1-A151-0DACF15E4637}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p03_Matrxi-Rotations", "p03_Matrxi-Rotations\p03_Matrxi-Rotations.njsproj", "{2AF428C6-E850-4A4E-AE9C-A7BFDB4705EA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p04_Reveal-Triangles", "p04_Reveal-Triangles\p04_Reveal-Triangles.njsproj", "{B633A02D-10C5-4850-B112-696C6C988114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0922A11-A2B3-45D0-9966-3127E93EE914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0922A11-A2B3-45D0-9966-3127E93EE914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0922A11-A2B3-45D0-9966-3127E93EE914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0922A11-A2B3-45D0-9966-3127E93EE914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF3BFE6-0F1C-4EC1-A151-0DACF15E4637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF3BFE6-0F1C-4EC1-A151-0DACF15E4637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF3BFE6-0F1C-4EC1-A151-0DACF15E4637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF3BFE6-0F1C-4EC1-A151-0DACF15E4637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF428C6-E850-4A4E-AE9C-A7BFDB4705EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF428C6-E850-4A4E-AE9C-A7BFDB4705EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF428C6-E850-4A4E-AE9C-A7BFDB4705EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF428C6-E850-4A4E-AE9C-A7BFDB4705EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B633A02D-10C5-4850-B112-696C6C988114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B633A02D-10C5-4850-B112-696C6C988114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B633A02D-10C5-4850-B112-696C6C988114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B633A02D-10C5-4850-B112-696C6C988114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

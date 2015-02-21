@@ -1,0 +1,266 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'PT Sans',Tahoma,sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+header {
+    width: 100%;
+    height: 104px;
+    background-color: #234465;
+    padding-top: 20px;
+}
+
+.container {
+    height: 80px;
+    width: 1170px;
+    margin: 0 auto;
+    padding-right: 10px;
+}
+
+.logo {
+    display: inline-block;
+    float: left;
+    width: 255px;
+    height: 65px;
+}
+
+.menu {
+    float: right;
+}
+
+.menu-div {
+    display: inline-block;
+    float: right;
+}
+
+.inn, .inn-inn, .inn-right {
+    display: inline-block;
+}
+
+form {
+    border-radius: 5px;
+    background-color: white;
+    height: 32px;
+    width: 260px;
+    padding: 1px;
+}
+
+form input[type="text"] {
+    height: 34px;
+    background: none repeat scroll 0% 0% transparent;
+    outline: none;
+    border: none;
+    padding-bottom: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: #212121;
+    width: 220px;
+    font-size: 15px;
+}
+
+form input[type="submit"] {
+    width: 32px;
+    height: 30px;
+    float: right;
+    background: transparent;
+    border: 0;
+    border-left: 1px solid #d5d5d5;
+    margin: 0;
+    background-image: url("search.png");
+    background-position: 7px;
+    background-repeat: no-repeat;
+    outline: none;
+}
+
+    form input[type="submit"]:hover {
+        cursor: pointer;
+        background-color: #367CAE;
+        border-top-right-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+ul {
+    display: inline-block;
+    margin: -6px 0 -10px 0;
+}
+
+
+
+li {
+    list-style: none;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 13px;
+    transition: all .1s ease;
+}
+
+.logo a {
+    background: url("logo.png") no-repeat 0 0;
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+.logo a div {
+    display: inline-block;
+    font-size: 13px;
+    float: right;
+    margin-right: 4px;
+    margin-top: 4px;
+}
+
+.big-menu {
+    height: 35px;
+    margin-top: 7px;
+}
+
+.big-menu li {
+    vertical-align: -webkit-baseline-middle;
+    padding: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+
+.big-menu li:hover {
+    background-color: #4CA0DB;
+    cursor: pointer;
+}
+
+strong {
+    display: inline-block;
+    width: 0;
+    height: 0;
+    margin-left: 5px;
+    vertical-align: middle;
+    border-top: 4px solid;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+
+.little-menu>li {
+    margin: 7px;
+}
+
+    .little-menu>li:hover {
+        text-decoration: underline;
+        cursor: pointer;
+    }
+
+.bell {
+    width: 29px;
+    background: url("not-ico%20.png") no-repeat 0 0;
+    background-position: 12px;
+    height: 20px;
+}
+
+.big-menu ul {
+    display: none;
+}
+
+.little-menu ul {
+    display: none;
+}
+
+    .big-menu li:hover > ul {
+        display: block;
+        position: absolute;
+        background-color: #234465;
+        margin-top: 10px;
+        margin-left: -6px;
+        width: 308px;
+        padding: 1px;
+        border-bottom-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+
+    .little-menu li:hover > ul {
+        display: block;
+        position: absolute;
+        background-color: #234465;
+        margin-top: -1px;
+        margin-left: -8px;
+        width: 308px;
+        padding: 1px;
+        border-radius: 5px;
+    }
+
+.big-menu .one:hover {
+    background-color: #4CA0DB;
+    transition: all .4s ease;
+    background-color: #FF9C00;
+}
+
+.little-menu .one:hover {
+    background-color: #4CA0DB;
+    transition: all .4s ease;
+    background-color: #FF9C00;
+}
+
+.big-menu .two:hover {
+    background-color: #4CA0DB;
+    transition: all .4s ease;
+    background-color: #FF9C00;
+}
+
+.little-menu .two:hover {
+    background-color: #4CA0DB;
+    transition: all .4s ease;
+    background-color: #FF9C00;
+}
+
+.big-menu li:hover ul li {
+    display: block;
+    height: 32px;
+    border-radius: 0;
+    border-bottom: 1px solid rgba(255,255,255,.15);
+    font-weight: normal;
+    padding-left: 19px;
+    padding-top: 10px;
+    font-size: 13px;
+    line-height: 10px;
+}
+
+.little-menu li:hover ul li {
+    display: block;
+    height: 32px;
+    border-radius: 0;
+    border-bottom: 1px solid rgba(255,255,255,.15);
+    font-weight: normal;
+    padding-left: 12px;
+    padding-top: 10px;
+    font-size: 13px;
+}
+
+.big-menu ul li:hover {
+    background-color: #FF9C00;
+}
+
+.little-menu ul li:hover {
+    background-color: #FF9C00;
+}
+
+.blue a{
+    color: #4ca0db;
+    font-weight: bold !important;
+}
+
+.blue:hover a{
+    color: #ffffff;
+}
+
+.logo {
+    transition: all .4s ease-in-out;
+}
+
+.logo:hover  {
+    -webkit-transform: translateY(-10px);
+}
+

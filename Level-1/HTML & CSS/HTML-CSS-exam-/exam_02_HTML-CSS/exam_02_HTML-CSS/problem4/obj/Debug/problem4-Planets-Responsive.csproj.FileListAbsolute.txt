@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem4\bin\problem4.dll.config
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem4\bin\problem4.dll
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem4\bin\problem4.pdb
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem4\obj\Debug\problem4.dll
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem4\obj\Debug\problem4.pdb
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem4\obj\Debug\problem4-Planets-Responsive.csprojResolveAssemblyReference.cache

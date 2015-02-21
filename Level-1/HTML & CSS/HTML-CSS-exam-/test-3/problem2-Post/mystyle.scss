@@ -1,0 +1,183 @@
+﻿body, section, article, div, img, span, time, a, p, input {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+a {
+    color: #3C4F9F;
+    text-decoration: none;
+}
+
+body {
+    background-color: #E9EAED;
+    font-size: 15px;
+    font-family: Helvetica;
+
+    section {
+        padding-top: 10px;
+        article {
+            border: 1px solid #D3D6DB;
+            border-radius: 5px;
+            background-color: white;
+            margin: 0 auto;
+            width: 500px;
+
+            p {
+                margin: 20px 0;
+            }
+
+            div.content {
+                padding: 15px;
+                padding-bottom: 0;
+
+                div.user-face {
+                    color: #80808F;
+
+                    img {
+                        width: 50px;
+                        float: left;
+                        margin-right: 10px;
+                        border-radius: 5px;
+                        border: 1px solid #D3D6DB;
+                    }
+
+                    time {
+                        display: block;
+                        font-size: 0.85em;
+                        line-height: 10px;
+                        background-image: url(images/icon01.png);
+                        background-repeat: no-repeat;
+                        background-position: 100px;
+                    }
+
+                    &::after {
+                        content: "";
+                        display: block;
+                        clear: both;
+                        float: none;
+                    }
+
+                    span {
+                        line-height: 30px;
+
+                        a:first-of-type {
+                            font-weight: bold;
+                        }
+                    }
+                }
+
+                div.picture {
+                    margin: 5px 0 20px 0;
+                    border: 1px solid #D3D6DB;
+                    padding: 3px 0;
+
+                    img {
+                        float: left;
+                        margin-right: 11px;
+                    }
+
+                    span {
+                        display: block;
+                    }
+
+                    &::after {
+                        content: "";
+                        display: block;
+                        clear: both;
+                        float: none;
+                    }
+
+                    div.inner-pic {
+                        margin-top: 10px;
+
+                        a {
+                            font-size: .9em;
+                            font-weight: bold;
+                        }
+
+                        span {
+                            color: #80808F;
+                            font-size: .8em;
+                            line-height: 16px;
+                        }
+                    }
+                }
+            }
+
+            div.article-votes {
+                border-top: 1px solid #D3D6DB;
+                padding: 15px;
+                padding-bottom: 0;
+                background-color: #FAFBFB;
+                padding-top: 7px;
+
+                div.comments {
+                    a:first-of-type {
+                        display: block;
+                    }
+
+                    a:nth-child(2) {
+                        img {
+                            width: 40px;
+                            margin-right: 10px;
+                            float: left;
+                        }
+                    }
+
+                    input {
+                        border: 1px solid #D3D6DB;
+                        padding-left: 10px;
+                        outline: none;
+                        height: 40px;
+                    }
+                }
+
+                div.buttons {
+                    padding: 0 0 7px 0;
+                    border-bottom: 1px solid #D3D6DB;
+                    font-size: 0.8em;
+
+                    a:last-of-type {
+                        text-align: right;
+                        width: 67px;
+                        float: right;
+                        background-image: url(images/icon02.png);
+                        background-repeat: no-repeat;
+                    }
+                }
+
+                div.likes {
+                    font-size: 0.8em;
+                    padding: 7px 0 7px 0;
+                    border-bottom: 1px solid #D3D6DB;
+                }
+
+                div.comments {
+                    padding-top: 7px;
+                    font-size: 0.8em;
+
+                    input {
+                        width: 89%;
+                    }
+
+                    a:first-of-type {
+                        margin-bottom: 2px;
+                    }
+
+                    a:last-child {
+                        position: relative;
+                        left: 440px;
+                        bottom: 28px;
+
+                        img {
+                            width: 20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

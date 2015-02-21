@@ -1,0 +1,67 @@
+﻿body, section, article, img, p {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin-bottom: 6px; }
+
+body {
+  font-size: 11px;
+  font-family: Tahoma, Helvetica, sans-serif; }
+
+article {
+  width: 145px; }
+
+article img:first-of-type {
+  border: 1px solid #DFE3E8; }
+
+article p:first-of-type {
+  color: #2B2B2B; }
+
+article p:first-of-type:hover {
+  color: #A6908A; }
+
+article p:nth-child(3) {
+  color: #A6908A; }
+
+article p:nth-child(4) {
+  color: #920603;
+  font-weight: bold; }
+
+a {
+  text-decoration: none; }
+
+article div {
+  width: 65%;
+  text-align: center;
+  padding-left: 8px;
+  padding-top: 3px;
+  height: 16px;
+  border-radius: 5px;
+  background-image: url(../images/shopping-cart-inactive.png); }
+
+article div a p {
+  font-size: 10px !important;
+  color: #4C4C55 !important; }
+
+article div:hover {
+  background-image: url(../images/shopping-cart-active.png); }
+
+article div:hover a p {
+  color: black !important; }
+
+article {
+  display: inline-block;
+  margin-right: 10px;
+  float: left;
+  height: 234px; }
+
+section {
+  width: 480px;
+  margin: 20px auto; }
+
+#low {
+  margin-bottom: 19px; }
+
+/*# sourceMappingURL=books.css.map */

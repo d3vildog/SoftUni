@@ -1,0 +1,10 @@
+{
+  "name": "p16_Digit_Checker",
+  "version": "0.0.0",
+  "description": "p16_Digit-Checker",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

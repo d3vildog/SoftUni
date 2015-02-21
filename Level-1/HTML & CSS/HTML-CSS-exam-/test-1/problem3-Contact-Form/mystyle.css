@@ -1,0 +1,77 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+div, section, form, input, textarea {
+  margin: 0;
+  padding: 0;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; }
+
+body {
+  background-image: url(images/feedback-img.jpg);
+  background-size: cover; }
+  body .wrapper {
+    width: 520px;
+    height: 525px;
+    margin: 40px auto; }
+    body .wrapper section {
+      background-color: rgba(0, 0, 0, 0.23);
+      padding: 50px 15px 25px 15px;
+      height: 100%; }
+      body .wrapper section form input {
+        border: none;
+        margin: 0 auto;
+        display: block;
+        width: 90%;
+        height: 55px;
+        margin-bottom: 30px;
+        padding-left: 51px;
+        font-family: "Montserrat";
+        font-size: 18px;
+        color: #3C3C3C; }
+      body .wrapper section form input:focus {
+        outline: #3598DB solid;
+        color: #3598DB; }
+      body .wrapper section form input[type="text"] {
+        background-image: url(images/name.svg);
+        background-position: 12px 12px;
+        background-repeat: no-repeat;
+        background-size: 30px; }
+      body .wrapper section form input[type="email"] {
+        background-image: url(images/name.svg);
+        background-position: 12px 12px;
+        background-repeat: no-repeat;
+        background-size: 30px; }
+      body .wrapper section form textarea {
+        border: none;
+        margin: 0 auto;
+        display: block;
+        width: 90%;
+        height: 140px;
+        margin-bottom: 30px;
+        padding-left: 51px;
+        padding-top: 17px;
+        font-family: "Montserrat";
+        font-size: 18px;
+        background-image: url(images/comment.svg);
+        background-position: 12px 12px;
+        background-repeat: no-repeat;
+        background-size: 30px;
+        color: #3C3C3C; }
+      body .wrapper section form textarea:focus {
+        outline: #3598DB solid !important;
+        color: #3598DB; }
+      body .wrapper section form input[type="submit"] {
+        height: 75px;
+        padding-left: 0;
+        font-family: "Montserrat";
+        font-weight: bold;
+        color: white;
+        font-size: 20px;
+        background-color: #3598DB;
+        border: 3px solid white; }
+      body .wrapper section form input[type="submit"]:hover {
+        background-color: white;
+        color: #3598DB;
+        cursor: pointer; }
+
+/*# sourceMappingURL=mystyle.css.map */

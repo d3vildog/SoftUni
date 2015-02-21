@@ -1,0 +1,10 @@
+{
+  "name": "p04_Build_Table",
+  "version": "0.0.0",
+  "description": "p04_Build-Table",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

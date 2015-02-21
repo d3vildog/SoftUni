@@ -1,0 +1,5 @@
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p3_Magic-Car-Gallery\bin\p3_Magic-Car-Gallery.dll.config
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p3_Magic-Car-Gallery\bin\p3_Magic-Car-Gallery.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p3_Magic-Car-Gallery\bin\p3_Magic-Car-Gallery.pdb
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p3_Magic-Car-Gallery\obj\Debug\p3_Magic-Car-Gallery.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p3_Magic-Car-Gallery\obj\Debug\p3_Magic-Car-Gallery.pdb

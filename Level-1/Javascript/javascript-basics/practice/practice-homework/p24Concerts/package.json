@@ -1,0 +1,10 @@
+{
+  "name": "p24Concerts",
+  "version": "0.0.0",
+  "description": "p24Concerts",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

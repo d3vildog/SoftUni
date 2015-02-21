@@ -1,0 +1,10 @@
+{
+  "name": "p1__Cognate_Words",
+  "version": "0.0.0",
+  "description": "p1_ Cognate-Words",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

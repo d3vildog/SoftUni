@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+
+    <meta charset="UTF-8">
+    <title>PPS</title>
+
+    <style>
+        #outsideDiv {
+            background-image: url("image4.jpeg");
+        }
+
+        #outsideDiv {
+            width: 800px;
+            height: 600px;
+        }
+
+        body > div {
+            margin: -8px;
+            padding: 15px;
+        }
+
+        div:not(#outsideDiv) {
+            background-color: rgba(32,32,30,0.9);
+            font-size: 21px;
+            border-color: #6E6356;
+        }
+
+        ul li {
+            color: white;
+        }
+
+        ul li div {
+            color: #F6EAC5;
+        }
+
+        .inner {
+            border: solid 2px;
+            width: 700px;
+        }
+
+        h1, .orange {
+            color: #F3BE60;
+            display: inline-block;
+        }
+
+        div #this li {
+            font-size: 20px;
+        }
+
+        ul li div p{
+            margin: 5px;
+        }
+
+        ul#this {
+            margin: 0;
+        }
+
+        ul li pre {
+            margin: 0px;
+        }
+
+        .heading {
+            font-size: 28px !important;
+        }
+
+        img {
+            display: inline-block;
+            width: 180px;
+            float: right;
+        }
+
+    </style>
+
+</head>
+<body>
+    <div id="outsideDiv">
+        <h1>Headings and Paragraphs</h1>
+
+        <img src="image6.png" alt=""/>
+        <ul type="square" id="this">
+            <li class="heading">Heading Tags: <p class="orange">&lt;h1&gt;</p> - <p class="orange">&lt;h6&gt;</p>
+                <div class="inner">
+                    <p>&lt;h1&gt;Heading 1&lt;/h1&gt;</p>
+                    <p>&lt;h2&gt;Sub heading 2&lt;/h2&gt;</p>
+                    <p>&lt;h3&gt;Sub heading 3&lt;/h3&gt;</p>
+                </div>
+            </li>
+            <li class="heading">Paragraph Tags: <p class="orange">&lt;p&gt;</p>
+                <div class="inner">
+                    <p>&lt;p&gt;This is my first paragraph&lt;/p&gt;</p>
+                    <p>&lt;p&gt;This is my second paragraph&lt;/p&gt;</p>
+                </div>
+            </li>
+            <li class="heading">Sections: <p class="orange">&lt;div&gt;</p> and <p class="orange">&lt;span&gt;</p>
+                <div class="inner innInn">
+                    <pre>
+&lt;div style="background: skyblue;"&gt;
+      This is a div
+&lt;/div&gt;
+                    </pre>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+</body>
+</html>

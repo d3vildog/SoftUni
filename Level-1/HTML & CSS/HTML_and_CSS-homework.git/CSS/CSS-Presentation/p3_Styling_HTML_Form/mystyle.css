@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-size: 10px;
+    font-family: Tahoma;
+}
+
+main {
+    width: 300px;
+    height: 520px;
+    background-image: url("formBackground.jpg");
+}
+
+span {
+    font-size: 12px;
+    margin-left: 14px;
+    color: white;
+    line-height: 25px;
+    font-weight: bold;
+}
+
+label {
+    color: black;
+    margin-left: 7px;
+    display: inline-block;
+    width: 80px;
+    opacity: 0.8;
+}
+
+article div {
+    width: 270px;
+    margin: 1px auto;
+    border-radius: 4px;
+}
+
+div {
+   background-color: rgba(120, 150, 183, 0.5);
+    border: 1px solid #98B2D2;
+}
+
+input[type='submit'] {
+    margin: 14px 110px;
+    padding: 5px 15px;
+    border-radius: 30px;
+    color: #ffffff;
+    background-color: #000E27;
+    border: none;
+    font-size: 10px;
+}
+
+#add {
+    vertical-align: top;
+    line-height: 30px;
+    width: 80px;
+}
+
+textarea {
+    height: 50px;
+    width: 125px;
+}
+
+input[type="email"], input[type="text"], input[type="tel"], textarea {
+    margin: 5px;
+    padding: 3px;
+    border-radius: 2px;
+    border: none;
+    display: inline-block;
+    width: 125px;
+}
+
+input[type='radio'] {
+    margin-left: 20px;
+    width: 8px;
+    height: 8px;
+    position: relative;
+    bottom: 3px;
+}
+
+label[for="1"] {
+    width: 30px;
+    background-image: url("visa.png");
+    background-size: 20px 20px;
+    background-position: -1px -8px;
+    background-repeat: no-repeat;
+    margin-left: 0px;
+    text-align: right;
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+label[for="2"] {
+    width: 30px;
+    background-image: url("amex.png");
+    background-size: 17px 23px;
+    background-position: -1px -8px;
+    background-repeat: no-repeat;
+    margin-left: 0;
+    text-align: right;
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+label[for="3"] {
+    width: 55px;
+    background-image: url("cc.png");
+    background-size: 17px 23px;
+    background-position: 0px -11px;
+    background-repeat: no-repeat;
+    margin-left: 0;
+    text-align: right;
+    vertical-align: top;
+    padding-left: 10px;
+}
+
+input[id="1"] {
+    margin-left: 18px;
+}
+
+#ctName {
+    margin: 5px;
+    margin-bottom: 10px;
+}
+
+#ct {
+    padding-bottom: 5px;
+}

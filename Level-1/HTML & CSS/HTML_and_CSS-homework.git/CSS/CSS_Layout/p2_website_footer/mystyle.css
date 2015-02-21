@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+footer {
+    font-family: 'PT Sans',Tahoma,sans-serif;
+    background: #234465;
+    width: 100%;
+    height: 285px;
+    padding: 30px;
+    padding-bottom: 0px;
+}
+
+footer div > div {
+    display: inline-block;
+    color: #ffffff;
+    float: left;
+    padding: 5px 5px;
+    margin: 10px;
+}
+
+.wrapper {
+    height: 240px;
+    width: 1202px;
+    margin: 0 auto;
+}
+
+    a {
+        text-decoration: none;
+        color: #ffffff;
+        font-family: 'PT Sans',Tahoma,sans-serif;
+    }
+
+h2 {
+    color: #ff9c00;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+li {
+    line-height: 24px;
+    list-style: none;
+    font-size: 14px;
+}
+
+span {
+    line-height: 24px;
+    font-size: 14px;
+}
+
+.col-1 {
+    width: 190px;
+    height: 128px;
+    margin-right: 0px;
+}
+
+.col-1 a {
+    display: block;
+    margin: 10px 5px;
+    width: 160px;
+    height: 44px;
+    border: 2px solid #ff9c00;
+    text-align: center;
+    padding: 10px 0;
+    transition: all .3s linear;
+    -webkit-transition: all .3s linear;
+    -moz-transition: all .3s linear;
+    -o-transition: all .3s linear;
+}
+
+    .col-1 a:hover {
+        background: #ff9c00;;
+    }
+
+.col-1 a:first-child {
+    margin-top: 0;
+}
+
+.col-4 {
+    width: 290px;
+}
+
+    .col-2 li a:hover {
+        color: #ff9c00;
+        text-decoration: none;
+        -webkit-transition: all .2s ease;
+        -moz-transition: all .2s ease;
+        -o-transition: all .2s ease;
+        transition: all .2s ease;
+    }
+
+    .col-3 li a:hover {
+        color: #ff9c00;
+        text-decoration: none;
+        -webkit-transition: all .2s ease;
+        -moz-transition: all .2s ease;
+        -o-transition: all .2s ease;
+        transition: all .2s ease;
+    }
+
+.col-4 li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.col-sm-3 {
+    float: left;
+    position: relative;
+    background: #E9ECEF;
+    width: 260px;
+    height: 220px;
+}
+
+.fb-like-box {
+    margin: -10px;
+}

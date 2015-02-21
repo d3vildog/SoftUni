@@ -1,0 +1,6 @@
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p1_Refactor-HTML\bin\p1_Refactor-HTML.dll.config
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p1_Refactor-HTML\bin\p1_Refactor-HTML.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p1_Refactor-HTML\bin\p1_Refactor-HTML.pdb
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p1_Refactor-HTML\obj\Debug\p1_Refactor-HTML.csprojResolveAssemblyReference.cache
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p1_Refactor-HTML\obj\Debug\p1_Refactor-HTML.dll
+D:\Lessons\HTML & CSS\HTML_and_CSS-homework.git\trunk\HTML\HTML5_Semantics\p1_Refactor-HTML\p1_Refactor-HTML\obj\Debug\p1_Refactor-HTML.pdb

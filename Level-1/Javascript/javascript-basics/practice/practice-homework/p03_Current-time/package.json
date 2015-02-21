@@ -1,0 +1,10 @@
+{
+  "name": "p03_Current_time",
+  "version": "0.0.0",
+  "description": "p03_Current-time",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

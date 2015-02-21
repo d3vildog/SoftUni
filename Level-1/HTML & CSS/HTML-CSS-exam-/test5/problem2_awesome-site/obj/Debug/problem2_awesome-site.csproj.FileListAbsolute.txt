@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\test5\problem2_awesome-site\bin\problem2_awesome-site.dll.config
+C:\Users\Dani\Desktop\test5\problem2_awesome-site\bin\problem2_awesome-site.dll
+C:\Users\Dani\Desktop\test5\problem2_awesome-site\bin\problem2_awesome-site.pdb
+C:\Users\Dani\Desktop\test5\problem2_awesome-site\obj\Debug\problem2_awesome-site.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\test5\problem2_awesome-site\obj\Debug\problem2_awesome-site.dll
+C:\Users\Dani\Desktop\test5\problem2_awesome-site\obj\Debug\problem2_awesome-site.pdb

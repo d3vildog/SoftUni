@@ -1,0 +1,6 @@
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem1\bin\problem1.dll.config
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem1\bin\problem1.dll
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem1\bin\problem1.pdb
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem1\obj\Debug\problem1-Movies.csprojResolveAssemblyReference.cache
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem1\obj\Debug\problem1.dll
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem1\obj\Debug\problem1.pdb

@@ -1,0 +1,10 @@
+{
+  "name": "p15_TreeOrHouse",
+  "version": "0.0.0",
+  "description": "p15_TreeOrHouse",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

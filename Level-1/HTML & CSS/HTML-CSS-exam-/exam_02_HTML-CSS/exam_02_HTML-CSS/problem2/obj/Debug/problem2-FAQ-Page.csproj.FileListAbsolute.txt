@@ -1,0 +1,5 @@
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem2\bin\problem2.dll.config
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem2\bin\problem2.dll
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem2\bin\problem2.pdb
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem2\obj\Debug\problem2.dll
+C:\Users\Dani\Desktop\exam_02_HTML-CSS\problem2\obj\Debug\problem2.pdb

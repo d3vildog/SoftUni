@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+thead {
+    text-align: center;
+}
+
+thead tr th:first-child[colspan] {
+    font-size: 21px;
+}
+
+table tfoot tr td {
+    text-align: right;
+}
+
+table {
+    width: 300px;
+}

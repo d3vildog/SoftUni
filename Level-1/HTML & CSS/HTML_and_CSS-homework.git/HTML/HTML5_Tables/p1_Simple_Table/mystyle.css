@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+section h1 {
+    font-weight: 900;
+    font-size: 30px;
+}
+
+table {
+    width: 320px;
+    margin-top: 20px;
+}
+
+table tbody tr td span:first-child {
+    font-weight: bold;
+}
+
+span {
+    display: block;
+}
+
+table tbody tr td img {
+    margin-left: 4px;
+    margin-right: 6px;
+}

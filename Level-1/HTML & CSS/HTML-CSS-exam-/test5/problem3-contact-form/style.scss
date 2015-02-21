@@ -1,0 +1,38 @@
+﻿body, section, article, header, h1, h2, form, label, textarea, input {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+
+body{
+    background-image: url(form-background.png);
+    section{
+        width: 700px;
+        margin: 0 auto;
+        article{
+            background-image: url(letter-background.png);
+            header{
+                font-family: Yanone Kaffeesatz Regular, Aril, sans-serif;
+                color :#7C7670;
+                font-size: 45px;
+                text-align: center;
+            }
+
+            form {
+                h2 {
+                    color :#7C7670;
+                    font-size: 25px;
+                }
+
+                label{
+                    color: #BAB3A9;
+                    font-family: Helvetica, Arial, serif;
+                    display: block;
+                }
+            }
+        }
+    }
+}
