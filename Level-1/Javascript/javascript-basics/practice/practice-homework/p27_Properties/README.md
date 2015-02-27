@@ -1,3 +1,0 @@
-﻿# p27_Properties
-
-

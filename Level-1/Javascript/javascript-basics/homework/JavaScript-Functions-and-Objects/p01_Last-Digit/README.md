@@ -1,3 +1,0 @@
-﻿# JavaScript-Functions-and-Objects
-
-
