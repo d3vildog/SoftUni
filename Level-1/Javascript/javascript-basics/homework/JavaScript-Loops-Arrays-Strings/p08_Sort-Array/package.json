@@ -1,0 +1,10 @@
+{
+  "name": "p08_Sort_Array",
+  "version": "0.0.0",
+  "description": "p08_Sort-Array",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

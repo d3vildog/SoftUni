@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p1_Rakiya", "p1_Rakiya\p1_Rakiya.njsproj", "{10C67149-4220-442A-A454-E7825AF7D1D1}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "p2_String-Matrix-Rotation", "p2_String-Matrix-Rotation\p2_String-Matrix-Rotation.njsproj", "{14908B1F-EEFF-4554-8951-9A9B6C454B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C67149-4220-442A-A454-E7825AF7D1D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C67149-4220-442A-A454-E7825AF7D1D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C67149-4220-442A-A454-E7825AF7D1D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C67149-4220-442A-A454-E7825AF7D1D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14908B1F-EEFF-4554-8951-9A9B6C454B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14908B1F-EEFF-4554-8951-9A9B6C454B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14908B1F-EEFF-4554-8951-9A9B6C454B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14908B1F-EEFF-4554-8951-9A9B6C454B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

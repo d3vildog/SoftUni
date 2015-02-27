@@ -1,0 +1,10 @@
+{
+  "name": "p02_MinMaxNumbers",
+  "version": "0.0.0",
+  "description": "p02_MinMaxNumbers",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

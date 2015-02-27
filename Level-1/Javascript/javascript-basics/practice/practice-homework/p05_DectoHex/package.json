@@ -1,0 +1,10 @@
+{
+  "name": "p05_DectoHex",
+  "version": "0.0.0",
+  "description": "p05_DectoHex",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

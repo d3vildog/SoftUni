@@ -1,0 +1,10 @@
+{
+  "name": "p17_Digit_Word",
+  "version": "0.0.0",
+  "description": "p17_Digit-Word",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

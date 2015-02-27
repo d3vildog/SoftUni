@@ -1,0 +1,10 @@
+{
+  "name": "p11_Division_by_3",
+  "version": "0.0.0",
+  "description": "p11_Division-by-3",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

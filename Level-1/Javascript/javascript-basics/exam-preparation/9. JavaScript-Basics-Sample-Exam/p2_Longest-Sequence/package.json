@@ -1,0 +1,10 @@
+{
+  "name": "p2_Longest_Sequence",
+  "version": "0.0.0",
+  "description": "p2_Longest-Sequence",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

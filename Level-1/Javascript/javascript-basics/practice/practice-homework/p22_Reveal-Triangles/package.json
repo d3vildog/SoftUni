@@ -1,0 +1,10 @@
+{
+  "name": "p22_Reveal_Triangles",
+  "version": "0.0.0",
+  "description": "p22_Reveal-Triangles",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

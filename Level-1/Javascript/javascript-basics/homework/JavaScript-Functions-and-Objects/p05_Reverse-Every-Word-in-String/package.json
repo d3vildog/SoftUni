@@ -1,0 +1,10 @@
+{
+  "name": "p05_Reverse_Every_Word_in_String",
+  "version": "0.0.0",
+  "description": "p05_Reverse-Every-Word-in-String",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

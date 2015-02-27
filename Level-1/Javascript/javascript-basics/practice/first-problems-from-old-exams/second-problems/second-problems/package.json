@@ -1,0 +1,10 @@
+{
+  "name": "second_problems",
+  "version": "0.0.0",
+  "description": "second-problems",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

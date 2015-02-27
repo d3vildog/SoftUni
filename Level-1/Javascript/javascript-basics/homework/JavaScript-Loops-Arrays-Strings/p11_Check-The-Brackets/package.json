@@ -1,0 +1,10 @@
+{
+  "name": "p11_Check_The_Brackets",
+  "version": "0.0.0",
+  "description": "p11_Check-The-Brackets",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

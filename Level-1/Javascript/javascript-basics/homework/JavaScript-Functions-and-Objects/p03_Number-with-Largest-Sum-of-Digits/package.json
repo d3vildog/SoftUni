@@ -1,0 +1,10 @@
+{
+  "name": "p03_Number_with_Largest_Sum_of_Digits",
+  "version": "0.0.0",
+  "description": "p03_Number-with-Largest-Sum-of-Digits",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

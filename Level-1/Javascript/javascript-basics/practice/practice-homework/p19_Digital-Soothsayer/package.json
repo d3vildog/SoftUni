@@ -1,0 +1,10 @@
+{
+  "name": "p19_Digital_Soothsayer",
+  "version": "0.0.0",
+  "description": "p19_Digital-Soothsayer",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

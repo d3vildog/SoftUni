@@ -1,0 +1,40 @@
+﻿@-webkit-keyframes move-wrapper {
+    0% {
+        -webkit-transform: translate(3px, 1px) rotate(0deg);
+    }
+
+    15% {
+        -webkit-transform: translate(-5px, 0px) rotate(-20deg);
+    }
+
+    30% {
+        -webkit-transform: translate(3px, -1px) rotate(20deg);
+    }
+
+    45% {
+        -webkit-transform: translate(-2px, 1px) rotate(0deg);
+    }
+	
+	60% {
+        -webkit-transform: translate(2px, -3px) rotate(-20deg);
+    }
+
+    75% {
+        -webkit-transform: translate(-2px, 0px) rotate(20deg);
+    }
+
+    100% {
+        -webkit-transform: translate(0px, -1px) rotate(0deg);
+    }
+}
+
+div#result {
+    -webkit-animation-name: move-wrapper;
+    -webkit-animation-delay: 0.0s;
+    -webkit-animation-duration: 1s;
+    -webkit-transform-origin: 50% 50%;
+    -webkit-animation-iteration-count: initial;
+    -webkit-animation-timing-function: linear;
+    
+}
+

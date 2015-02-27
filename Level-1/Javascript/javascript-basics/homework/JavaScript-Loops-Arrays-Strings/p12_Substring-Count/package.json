@@ -1,0 +1,10 @@
+{
+  "name": "p12_Substring_Count",
+  "version": "0.0.0",
+  "description": "p12_Substring-Count",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

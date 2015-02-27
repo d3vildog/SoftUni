@@ -1,0 +1,10 @@
+{
+  "name": "p31_Maximal_Increasing_Sequence",
+  "version": "0.0.0",
+  "description": "p31_Maximal-Increasing-Sequence",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}
