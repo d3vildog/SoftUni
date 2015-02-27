@@ -1,0 +1,11 @@
+#wrapper {
+    width: 180px;
+}
+
+input {
+    margin: 2px 0;
+}
+
+.radio {
+    margin: 2px 0 0 3px;
+}

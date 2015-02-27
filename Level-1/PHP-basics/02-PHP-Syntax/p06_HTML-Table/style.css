@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+    font-family: Consolas;
+}
+
+table {
+    margin: 20px auto;
+    transition: all .9s ease;
+    border: 2px groove black;
+    border-collapse: collapse;
+    border: 3px outset lightgray;
+}
+
+th, td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 120px;
+    border: 2px outset lightgray;
+    transition: all .9s ease;
+}
+
+th {
+    text-align: left;
+    padding-left: 10px;
+    background-color: #ED6D29;
+    color: white;
+}
+
+td {
+    text-decoration: underline;
+    font-weight: bold;
+    color: #ED6D29;
+    padding-right: 10px;
+    text-align: right;
+}
+
+input[type='submit']{
+    margin: 0 auto;
+    display: block;
+    background-color: white;
+    color: #ED6D29;
+    border: 0;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px 0 10px 0;
+    margin-top: 10px;
+}
+
+input[type='submit']:hover {
+    cursor: pointer;
+    color: black;
+    border-radius: 100px;
+}
+
+section {
+    background-color: #ED6D29;
+    width: 100%;
+    padding: 10px;
+    border: 3px outset white;
+}
+
+input {
+    padding: 5px 5px 5px 10px;
+    color: #ED6D29;
+}
+
+#wrapper {
+    width: 300px;
+    border: 2px dotted chocolate;
+    margin: 10px auto;
+}
+
+label {
+    display: inline-block;
+    width: 80px;
+    margin: 10px 0;
+    color: white;
+    font-weight: bold;
+}
