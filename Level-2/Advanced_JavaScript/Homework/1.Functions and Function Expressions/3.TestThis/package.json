@@ -1,0 +1,10 @@
+{
+  "name": "_3.TestThis",
+  "version": "0.0.0",
+  "description": "3.TestThis",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}
