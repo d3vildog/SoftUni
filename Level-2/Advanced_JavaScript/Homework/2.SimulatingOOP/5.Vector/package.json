@@ -1,0 +1,10 @@
+{
+  "name": "5.Vector",
+  "version": "0.0.0",
+  "description": "5.Vector",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}

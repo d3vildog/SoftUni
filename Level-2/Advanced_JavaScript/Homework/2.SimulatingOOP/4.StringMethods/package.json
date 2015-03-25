@@ -1,0 +1,10 @@
+{
+  "name": "4.StringMethods",
+  "version": "0.0.0",
+  "description": "4.StringMethods",
+  "main": "app.js",
+  "author": {
+    "name": "Dani",
+    "email": ""
+  }
+}
